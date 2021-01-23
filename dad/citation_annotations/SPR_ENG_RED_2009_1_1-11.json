@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.8446399999999,
+          1200.8976
+        ],
+        [
+          1117.9507199999998,
+          1225.21536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          953.7225599999999,
+          1304.6089599999998
+        ],
+        [
+          1226.9364799999998,
+          1328.9267199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1357.40848,
+          1719.4543999999999
+        ],
+        [
+          1510.838,
+          1743.7721599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.8446399999999,
+          1754.0711199999998
+        ],
+        [
+          923.7417599999999,
+          1778.3888799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data4\\CITATION\\SPR_ENG_RED_2009_1_1\\SPR_ENG_RED_2009_1_1-11.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

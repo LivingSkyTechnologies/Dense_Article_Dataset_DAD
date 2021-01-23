@@ -1,0 +1,26 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1208.19848,
+          1412.26224
+        ],
+        [
+          1248.7836,
+          1437.19072
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data4\\CITATION\\SPR_ENG_PCPS_2020_1_10\\SPR_ENG_PCPS_2020_1_10-6.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

@@ -1,0 +1,42 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          669.9875999999999,
+          820.0026399999999
+        ],
+        [
+          939.6759999999999,
+          844.93112
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1004.71768,
+          820.0026399999999
+        ],
+        [
+          1184.74128,
+          844.93112
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data3\\CITATION\\SPR_HS_LTA_2018_2\\SPR_HS_LTA_2018_2-8.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

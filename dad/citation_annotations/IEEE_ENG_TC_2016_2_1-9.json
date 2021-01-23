@@ -1,0 +1,42 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          739.05448,
+          1021.2626399999999
+        ],
+        [
+          769.70152,
+          1046.9128799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          466.95096,
+          1053.04784
+        ],
+        [
+          497.598,
+          1078.69808
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TC_2016_2_1-9.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

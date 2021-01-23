@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          436.60927999999996,
+          1860.3641599999999
+        ],
+        [
+          672.3471999999999,
+          1892.23264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          481.3306399999999,
+          1929.7641599999997
+        ],
+        [
+          747.9376799999999,
+          1961.6326399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1064.92912,
+          1096.96416
+        ],
+        [
+          1286.9565217391303,
+          1124.6376811594203
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1297.55792,
+          1096.96416
+        ],
+        [
+          1347.08176,
+          1128.83264
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          452.89855072463763,
+          1718.8405797101448
+        ],
+        [
+          627.5362318840579,
+          1744.2028985507245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2019_2_1-11.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

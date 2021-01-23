@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1252.6977599999998,
+          1533.2125599999997
+        ],
+        [
+          1553.6161599999998,
+          1557.5858399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          342.53064,
+          633.78856
+        ],
+        [
+          552.0075999999999,
+          658.16184
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          267.88399999999996,
+          833.6605599999999
+        ],
+        [
+          713.23768,
+          858.0338399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1173.4693877551022,
+          1132.142857142857
+        ],
+        [
+          1309.6938775510205,
+          1158.1632653061224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SAG_HS_SO_2020_1_17-5.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 1700
+}

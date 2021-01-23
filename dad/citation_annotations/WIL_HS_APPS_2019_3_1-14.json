@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          376.2868,
+          487.57663999999994
+        ],
+        [
+          541.26448,
+          512.3385599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          313.66024,
+          559.66936
+        ],
+        [
+          471.02272727272725,
+          584.6590909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.53903999999999,
+          1137.10512
+        ],
+        [
+          412.45808,
+          1161.8670399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          780.4446399999999,
+          1570.2166399999999
+        ],
+        [
+          968.2965599999999,
+          1594.9785599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_APPS_2019_3_1-14.jpg",
+  "imageData": null,
+  "imageHeight": 1938,
+  "imageWidth": 1347
+}

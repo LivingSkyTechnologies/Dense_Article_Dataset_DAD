@@ -1,0 +1,42 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          244.28799999999998,
+          1653.5799199999997
+        ],
+        [
+          641.1727199999999,
+          1674.8440799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          837.29712,
+          1653.5799199999997
+        ],
+        [
+          1281.6514399999999,
+          1674.8440799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2018_V128_1-7.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

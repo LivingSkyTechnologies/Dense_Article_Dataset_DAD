@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          749.6587999999999,
+          866.8615199999999
+        ],
+        [
+          775.7809599999999,
+          882.8790399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          554.11736,
+          1813.47752
+        ],
+        [
+          581.59976,
+          1829.49504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          581.59976,
+          1813.47752
+        ],
+        [
+          602.19768,
+          1829.49504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1199.9815199999998,
+          1508.1175199999998
+        ],
+        [
+          1226.46456,
+          1524.13504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data8\\WIL_ENG_AS_COLLECTION\\CITATION\\WIL_ENG_AS_2020_4_12\\WIL_ENG_AS_2020_4_12-7.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

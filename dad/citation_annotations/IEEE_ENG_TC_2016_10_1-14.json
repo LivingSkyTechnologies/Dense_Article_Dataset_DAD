@@ -1,0 +1,42 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          656.07984,
+          576.9916
+        ],
+        [
+          697.30344,
+          602.64184
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          528.4115999999999,
+          672.3471999999999
+        ],
+        [
+          572.9941599999999,
+          697.99744
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TC_2016_10_1\\IEEE_ENG_TC_2016_10_1-14.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

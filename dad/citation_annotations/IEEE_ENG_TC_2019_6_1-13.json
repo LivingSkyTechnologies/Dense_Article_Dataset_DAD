@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          72.70344,
+          1403.8509599999998
+        ],
+        [
+          116.48096,
+          1429.5011999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          580.40608,
+          1435.6361599999998
+        ],
+        [
+          620.68584,
+          1461.2863999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          274.62968,
+          1499.40088
+        ],
+        [
+          318.4072,
+          1525.0511199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1397.5216799999998,
+          863.28048
+        ],
+        [
+          1441.2992,
+          888.9307200000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          994.16888,
+          1117.7563999999998
+        ],
+        [
+          1034.4486399999998,
+          1143.4066399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TC_2019_6_1\\IEEE_ENG_TC_2019_6_1-13.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

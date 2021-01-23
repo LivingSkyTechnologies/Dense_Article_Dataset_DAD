@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          496.0711999999999,
+          766.0649599999999
+        ],
+        [
+          695.7211199999999,
+          786.996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          118.03552,
+          1782.41408
+        ],
+        [
+          350.16464,
+          1803.34512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1102.73824,
+          824.13888
+        ],
+        [
+          1275.32216,
+          845.06992
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1465.00624,
+          911.3052799999998
+        ],
+        [
+          1561.72208,
+          932.2363199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          864.8072799999999,
+          940.2589599999999
+        ],
+        [
+          995.4735999999998,
+          961.1899999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_HS_AMP_2016_V3_14-4.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

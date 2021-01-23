@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          578.21304,
+          1247.2567999999999
+        ],
+        [
+          606.11184,
+          1272.9070399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1449.4606399999998,
+          481.60823999999997
+        ],
+        [
+          1489.7403999999997,
+          507.25847999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          802.958,
+          513.3934399999999
+        ],
+        [
+          843.23776,
+          539.04368
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          862.11456,
+          513.3934399999999
+        ],
+        [
+          902.39432,
+          539.04368
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TC_2018_8_1-10.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

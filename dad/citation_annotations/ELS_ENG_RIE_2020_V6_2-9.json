@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          500.1519199999999,
+          1503.09296
+        ],
+        [
+          539.4878399999999,
+          1522.99688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          899.8959199999999,
+          1434.8033599999999
+        ],
+        [
+          939.8147999999999,
+          1454.7072799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          939.8148,
+          1434.8033599999999
+        ],
+        [
+          969.76784,
+          1454.7072799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          476.2228,
+          1084.38888
+        ],
+        [
+          512.78272,
+          1102.29408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          512.7827199999999,
+          1084.38888
+        ],
+        [
+          540.18184,
+          1102.29408
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_2-9.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

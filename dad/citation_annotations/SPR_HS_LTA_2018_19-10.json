@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          566.7203999999999,
+          525.2191999999999
+        ],
+        [
+          850.0389599999999,
+          550.1476799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1148.48672,
+          642.89384
+        ],
+        [
+          1325.76208,
+          667.82232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          326.56863999999996,
+          682.2297599999999
+        ],
+        [
+          384.19839999999994,
+          707.15824
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          847.6516,
+          760.7628
+        ],
+        [
+          986.14624,
+          785.69128
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          408.84927999999996,
+          1074.95048
+        ],
+        [
+          606.0007999999999,
+          1099.87896
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          414.0959199999999,
+          1585.5401599999998
+        ],
+        [
+          606.8058399999999,
+          1610.4686399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          615.55024,
+          1821.0837599999998
+        ],
+        [
+          858.78336,
+          1846.0122399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data3\\CITATION\\SPR_HS_LTA_2018_19\\SPR_HS_LTA_2018_19-10.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

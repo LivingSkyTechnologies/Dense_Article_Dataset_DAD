@@ -1,0 +1,58 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          433.8888,
+          1435.6639199999997
+        ],
+        [
+          474.16856,
+          1461.3141599999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          726.6179999999999,
+          1881.0176
+        ],
+        [
+          769.8958399999999,
+          1906.6678399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          923.18656,
+          453.26527999999996
+        ],
+        [
+          966.96408,
+          478.91551999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TMC_2020_3_1\\IEEE_ENG_TMC_2020_3_1-5.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

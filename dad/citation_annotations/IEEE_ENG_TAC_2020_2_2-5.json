@@ -1,0 +1,138 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          723.5643999999999,
+          249.81223999999997
+        ],
+        [
+          760.4851999999998,
+          272.76975999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          72.70344,
+          278.76592
+        ],
+        [
+          109.62424,
+          301.72344
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          125.72503999999999,
+          278.76592
+        ],
+        [
+          162.75688,
+          301.72344
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          248.09112,
+          394.91375999999997
+        ],
+        [
+          288.17656,
+          417.87127999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          525.41352,
+          424.034
+        ],
+        [
+          562.3343199999999,
+          446.99152
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          681.59128,
+          1182.90912
+        ],
+        [
+          720.76064,
+          1205.83888
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          356.91031999999996,
+          1211.8627999999999
+        ],
+        [
+          392.9428,
+          1234.7925599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          407.60008,
+          1211.8627999999999
+        ],
+        [
+          443.63256,
+          1234.7925599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TAC_2020_2_2\\IEEE_ENG_TAC_2020_2_2-5.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

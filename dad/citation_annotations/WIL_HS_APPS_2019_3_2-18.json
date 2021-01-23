@@ -1,0 +1,26 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          409.187969924812,
+          1604.5112781954886
+        ],
+        [
+          919.7142857142857,
+          1631.578947368421
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_APPS_2019_3_2-18.jpg",
+  "imageData": null,
+  "imageHeight": 1938,
+  "imageWidth": 1347
+}

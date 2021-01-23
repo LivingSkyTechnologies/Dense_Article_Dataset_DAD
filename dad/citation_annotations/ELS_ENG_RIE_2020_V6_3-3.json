@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          521.3883199999999,
+          901.7558399999999
+        ],
+        [
+          564.6106399999999,
+          921.6597599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          562.1677599999999,
+          1017.9036799999999
+        ],
+        [
+          592.9535999999999,
+          1037.8075999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1451.18176,
+          676.70552
+        ],
+        [
+          1478.7474399999999,
+          696.60944
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1400.18664,
+          938.1214399999999
+        ],
+        [
+          1427.8633599999998,
+          958.0253599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_3-3.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

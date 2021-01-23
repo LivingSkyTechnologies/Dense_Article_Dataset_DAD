@@ -1,0 +1,26 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          604.1935483870967,
+          1569.032258064516
+        ],
+        [
+          900.6451612903226,
+          1597.741935483871
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2015_V94_1-21.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

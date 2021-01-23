@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          632.6781599999999,
+          1517.2505599999997
+        ],
+        [
+          660.3826399999999,
+          1533.7122399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          660.35488,
+          1517.2505599999997
+        ],
+        [
+          688.05936,
+          1533.7122399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          688.05936,
+          1517.2505599999997
+        ],
+        [
+          706.51976,
+          1533.7122399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          815.8663999999999,
+          1757.40232
+        ],
+        [
+          826.2763999999999,
+          1773.8639999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1195.6231999999998,
+          1688.00232
+        ],
+        [
+          1226.8531999999998,
+          1704.464
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data6\\CITATION\\SAG_ENG_AME_2020_5_15\\SAG_ENG_AME_2020_5_15-9.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

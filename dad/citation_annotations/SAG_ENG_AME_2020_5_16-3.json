@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          766.12048,
+          924.2414399999999
+        ],
+        [
+          786.9404800000001,
+          940.7031199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          231.18527999999998,
+          957.7755199999999
+        ],
+        [
+          252.00527999999997,
+          974.2371999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          475.44552,
+          1091.68976
+        ],
+        [
+          496.26552,
+          1108.1514399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          661.1599199999999,
+          1493.1826399999998
+        ],
+        [
+          681.97992,
+          1509.6443199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data6\\CITATION\\SAG_ENG_AME_2020_5_16\\SAG_ENG_AME_2020_5_16-3.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

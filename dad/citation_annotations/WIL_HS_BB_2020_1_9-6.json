@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1446.1016799999998,
+          1221.55104
+        ],
+        [
+          1528.1602399999997,
+          1243.4259200000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          853.6199999999999,
+          1257.63904
+        ],
+        [
+          1291.7560799999999,
+          1279.51392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1375.5912799999999,
+          1293.72704
+        ],
+        [
+          1528.16024,
+          1315.60192
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          853.6199999999999,
+          1329.81504
+        ],
+        [
+          906.8636799999999,
+          1351.68992
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          853.6199999999999,
+          1438.0790399999998
+        ],
+        [
+          1063.9852799999999,
+          1459.95392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1220.35736,
+          1510.2550399999998
+        ],
+        [
+          1486.0760799999998,
+          1532.1299199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1279.37512,
+          1546.3430399999997
+        ],
+        [
+          1494.43184,
+          1568.2179199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          915.9689599999999,
+          1726.7830399999998
+        ],
+        [
+          1057.8225599999998,
+          1748.6579199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1229.24056,
+          1726.7830399999998
+        ],
+        [
+          1528.16024,
+          1748.6579199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          853.6199999999999,
+          1762.8710399999998
+        ],
+        [
+          1058.3103448275863,
+          1783.6206896551726
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1252.8920799999999,
+          1907.2230399999999
+        ],
+        [
+          1440.2720799999997,
+          1929.09792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1445.9628799999998,
+          1907.2230399999999
+        ],
+        [
+          1528.1324799999998,
+          1929.09792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          853.6199999999999,
+          1943.3110399999998
+        ],
+        [
+          936.7586206896552,
+          1966.3793103448277
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_BB_2020_1_9-6.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

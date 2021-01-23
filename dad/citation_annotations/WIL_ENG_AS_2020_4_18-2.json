@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          359.79736,
+          347.74951999999996
+        ],
+        [
+          387.77944,
+          363.76703999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          387.77943999999997,
+          347.74951999999996
+        ],
+        [
+          408.76599999999996,
+          363.76703999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          408.76599999999996,
+          347.74951999999996
+        ],
+        [
+          429.75255999999996,
+          363.76703999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          697.1924,
+          378.28552
+        ],
+        [
+          724.6748,
+          394.30304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          724.6748,
+          378.28552
+        ],
+        [
+          745.30048,
+          394.30304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          625.7659199999999,
+          469.89351999999997
+        ],
+        [
+          651.99912,
+          485.91103999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data8\\WIL_ENG_AS_COLLECTION\\CITATION\\WIL_ENG_AS_2020_4_18\\WIL_ENG_AS_2020_4_18-2.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          732.4476,
+          1785.49544
+        ],
+        [
+          760.3464,
+          1811.1456799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          72.70344,
+          1817.4472
+        ],
+        [
+          103.35048,
+          1843.09744
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1412.31776,
+          831.4675199999999
+        ],
+        [
+          1442.9648,
+          857.11776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1039.2788799999998,
+          1149.5138399999998
+        ],
+        [
+          1081.50184,
+          1175.1640799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          934.8735199999999,
+          1276.6824
+        ],
+        [
+          973.5987199999998,
+          1302.3326399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1434.8311199999998,
+          1849.2323999999999
+        ],
+        [
+          1475.1108799999997,
+          1874.8826399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TC_2019_6_1-11.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

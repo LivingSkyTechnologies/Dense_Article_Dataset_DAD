@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1134.71776,
+          1101.2114399999998
+        ],
+        [
+          1233.01592,
+          1125.9733599999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.53903999999999,
+          1137.24392
+        ],
+        [
+          251.69991999999996,
+          1162.0058399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          230.57456,
+          1425.8923999999997
+        ],
+        [
+          348.22144,
+          1450.6543199999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          592.5371999999999,
+          1786.9112
+        ],
+        [
+          918.9392799999998,
+          1811.67312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          932.65272,
+          1786.9112
+        ],
+        [
+          1232.9604,
+          1811.67312
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data7\\WIL_HS_APPS_BB_COLLECTION\\CITATION\\WIL_HS_APPS_2019_1_3\\WIL_HS_APPS_2019_1_3-4.jpg",
+  "imageData": null,
+  "imageHeight": 1938,
+  "imageWidth": 1347
+}

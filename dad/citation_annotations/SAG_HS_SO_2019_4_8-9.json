@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          895.26,
+          433.91655999999995
+        ],
+        [
+          1157.75856,
+          458.28983999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          895.26,
+          1433.2765599999998
+        ],
+        [
+          1214.02808,
+          1457.6498399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1168.0575199999998,
+          1633.1485599999996
+        ],
+        [
+          1409.7083199999997,
+          1657.5218399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1213.91704,
+          1932.9565599999996
+        ],
+        [
+          1459.14888,
+          1957.3298399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1466.8661599999998,
+          1932.9565599999996
+        ],
+        [
+          1565.58072,
+          1957.3298399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          895.26,
+          1966.2685599999998
+        ],
+        [
+          1036.72496,
+          1990.6418399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data5\\SAG_HS_SO_COLLECTION\\CITATION\\SAG_HS_SO_2019_4_8\\SAG_HS_SO_2019_4_8-9.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 1700
+}

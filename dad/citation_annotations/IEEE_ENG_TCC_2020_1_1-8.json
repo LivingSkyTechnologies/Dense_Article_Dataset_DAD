@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          270.21584,
+          1085.77688
+        ],
+        [
+          310.4956,
+          1111.4271199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          458.9283199999999,
+          1372.06576
+        ],
+        [
+          502.7058399999999,
+          1397.716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          685.5332,
+          1372.06576
+        ],
+        [
+          713.432,
+          1397.716
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          507.06415999999996,
+          1881.0453599999998
+        ],
+        [
+          550.84168,
+          1906.6955999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          599.14408,
+          1944.61576
+        ],
+        [
+          629.79112,
+          1970.2659999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1131.5555555555554,
+          1018.2222222222223
+        ],
+        [
+          1174.0256355555553,
+          1047.4400355555556
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1285.7777777777778,
+          1020.4444444444445
+        ],
+        [
+          1326.6666666666667,
+          1048.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TCC_2020_1_1-8.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

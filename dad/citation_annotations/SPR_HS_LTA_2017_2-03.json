@@ -1,0 +1,58 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          461.75984,
+          1742.9393599999999
+        ],
+        [
+          676.1780799999999,
+          1767.86784
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          820.5882352941176,
+          1227.941176470588
+        ],
+        [
+          1123.5294117647059,
+          1257.3529411764705
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          325.735294117647,
+          1272.7941176470588
+        ],
+        [
+          472.7941176470588,
+          1295.5882352941176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_HS_LTA_2017_2-03.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

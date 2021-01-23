@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          626.21008,
+          839.1015199999999
+        ],
+        [
+          777.94624,
+          864.03
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1041.5551999999998,
+          1428.6406399999998
+        ],
+        [
+          1256.3065599999998,
+          1453.5691199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          320.16666666666674,
+          911.6111111111112
+        ],
+        [
+          522.9444444444446,
+          940.7777777777778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1295.1666666666667,
+          874.1111111111112
+        ],
+        [
+          1335.4444444444446,
+          903.2777777777778
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_HS_LTA_2019_11-04.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

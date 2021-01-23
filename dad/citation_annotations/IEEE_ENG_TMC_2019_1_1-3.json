@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          719.5391999999999,
+          419.12047999999993
+        ],
+        [
+          759.81896,
+          444.7707199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          726.92336,
+          836.3255199999999
+        ],
+        [
+          769.67376,
+          861.9757599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1020.29104,
+          450.90567999999996
+        ],
+        [
+          1048.18984,
+          476.55591999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1456.0675199999998,
+          450.90567999999996
+        ],
+        [
+          1499.84504,
+          476.55591999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1066.7057599999998,
+          542.20832
+        ],
+        [
+          1106.9855199999997,
+          567.85856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1124.0023999999999,
+          542.20832
+        ],
+        [
+          1167.77992,
+          567.85856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          935.62304,
+          572.5777599999999
+        ],
+        [
+          979.4005599999999,
+          598.228
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TMC_2019_1_1-3.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

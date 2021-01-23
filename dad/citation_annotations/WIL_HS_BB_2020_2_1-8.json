@@ -1,0 +1,234 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          716.7909599999999,
+          968.93504
+        ],
+        [
+          803.5409599999999,
+          990.8099199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          129.05624,
+          1005.02304
+        ],
+        [
+          219.58159999999998,
+          1026.89792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          225.13359999999997,
+          1005.02304
+        ],
+        [
+          375.53727999999995,
+          1026.89792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          381.11704,
+          1005.02304
+        ],
+        [
+          534.15792,
+          1026.89792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          470.58752,
+          1365.90304
+        ],
+        [
+          666.62864,
+          1387.77792
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          614.43984,
+          1510.2550399999998
+        ],
+        [
+          803.5964799999999,
+          1532.1299199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          129.02847999999997,
+          1546.3430399999997
+        ],
+        [
+          180.85639999999998,
+          1568.2179199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          226.74368,
+          1618.5190399999997
+        ],
+        [
+          414.15144,
+          1640.3939199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          346.94448,
+          1798.9590399999997
+        ],
+        [
+          547.03856,
+          1820.8339199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          465.4135338345864,
+          1184.2105263157894
+        ],
+        [
+          640.6015037593985,
+          1205.2631578947369
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          573.6842105263157,
+          1219.548872180451
+        ],
+        [
+          759.3984962406015,
+          1243.984962406015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          762.781954887218,
+          1218.796992481203
+        ],
+        [
+          805.2631578947368,
+          1244.360902255639
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          126.69172932330827,
+          1255.2631578947369
+        ],
+        [
+          251.50375939849621,
+          1279.6992481203006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          494.21965317919074,
+          2013.8728323699422
+        ],
+        [
+          798.8439306358382,
+          2038.150289017341
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_BB_2020_2_1-8.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

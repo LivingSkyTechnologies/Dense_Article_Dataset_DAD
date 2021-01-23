@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          599.28288,
+          1202.7575199999999
+        ],
+        [
+          621.76848,
+          1218.77504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          621.76848,
+          1202.7575199999999
+        ],
+        [
+          629.2636799999999,
+          1218.77504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          629.26368,
+          1202.7575199999999
+        ],
+        [
+          651.74928,
+          1218.77504
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          353.02392,
+          1233.29352
+        ],
+        [
+          375.50951999999995,
+          1249.31104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          375.50952,
+          1233.29352
+        ],
+        [
+          383.00472,
+          1249.31104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          383.00471999999996,
+          1233.29352
+        ],
+        [
+          405.49031999999994,
+          1249.31104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          754.5168,
+          1233.29352
+        ],
+        [
+          781.9992,
+          1249.31104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          781.9991999999999,
+          1233.29352
+        ],
+        [
+          802.6248799999998,
+          1249.31104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          339.7824,
+          1416.5095199999998
+        ],
+        [
+          367.2648,
+          1432.52704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          367.2648,
+          1416.5095199999998
+        ],
+        [
+          387.89047999999997,
+          1432.52704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          606.58376,
+          1874.5495199999998
+        ],
+        [
+          634.06616,
+          1890.56704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          634.06616,
+          1874.5495199999998
+        ],
+        [
+          654.66408,
+          1890.56704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1332.6188,
+          1874.5495199999998
+        ],
+        [
+          1358.8519999999999,
+          1890.56704
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data8\\WIL_ENG_AS_COLLECTION\\CITATION\\WIL_ENG_AS_2020_4_14\\WIL_ENG_AS_2020_4_14-2.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

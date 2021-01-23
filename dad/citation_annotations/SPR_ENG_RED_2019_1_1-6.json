@@ -1,0 +1,138 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.8446399999999,
+          611.4417599999999
+        ],
+        [
+          1083.8891999999998,
+          643.3102399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1024.14968,
+          1236.0417599999998
+        ],
+        [
+          1265.63392,
+          1267.91024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.8446399999999,
+          1791.2417599999999
+        ],
+        [
+          1075.50568,
+          1823.11024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1066.2616,
+          1895.3417599999998
+        ],
+        [
+          1225.2153600000001,
+          1927.2102399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1440.10989010989,
+          502.19780219780216
+        ],
+        [
+          1519.2307692307693,
+          534.6153846153846
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          845.6043956043956,
+          535.1648351648352
+        ],
+        [
+          925.8241758241758,
+          565.3846153846154
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          843.4065934065934,
+          329.1208791208791
+        ],
+        [
+          1021.978021978022,
+          362.08791208791206
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1394.5054945054944,
+          297.25274725274727
+        ],
+        [
+          1513.1868131868132,
+          324.7252747252747
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2019_1_1-6.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

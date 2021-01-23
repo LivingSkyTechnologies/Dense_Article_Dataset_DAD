@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          565.94312,
+          328.87271999999996
+        ],
+        [
+          722.9536800000001,
+          353.80119999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          731.5037599999999,
+          328.87271999999996
+        ],
+        [
+          954.8051999999999,
+          353.80119999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          975.4308799999999,
+          328.87271999999996
+        ],
+        [
+          1026.1206399999999,
+          353.80119999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          369.20799999999997,
+          368.06984
+        ],
+        [
+          622.07384,
+          392.99832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          632.98352,
+          368.06984
+        ],
+        [
+          783.55376,
+          392.99832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          794.4356799999999,
+          368.06984
+        ],
+        [
+          913.3872799999999,
+          392.99832
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data3\\CITATION\\SPR_HS_LTA_2018_14\\SPR_HS_LTA_2018_14-07.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

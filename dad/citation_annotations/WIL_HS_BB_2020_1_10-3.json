@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          483.96783999999997,
+          319.35104
+        ],
+        [
+          798.8772799999999,
+          341.22592000000003
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          124.25375999999999,
+          355.43904
+        ],
+        [
+          299.97455999999994,
+          377.31392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          172.97256,
+          680.2310399999999
+        ],
+        [
+          327.95664,
+          702.1059199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          929.43256,
+          535.8790399999999
+        ],
+        [
+          1483.7997599999999,
+          557.7539199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          885.2663999999999,
+          896.75904
+        ],
+        [
+          1078.6147999999998,
+          918.63392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1228.29672,
+          1113.28704
+        ],
+        [
+          1411.4572,
+          1135.16192
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          847.1014492753623,
+          2010.869565217391
+        ],
+        [
+          1316.6666666666665,
+          2039.1304347826085
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_BB_2020_1_10-3.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

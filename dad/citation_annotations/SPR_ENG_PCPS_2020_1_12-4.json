@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1297.58568,
+          246.39776
+        ],
+        [
+          1339.5587999999998,
+          271.32624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1351.2457599999998,
+          246.39776
+        ],
+        [
+          1382.8088799999998,
+          271.32624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1126.3619999999999,
+          312.96623999999997
+        ],
+        [
+          1166.9471199999998,
+          337.89471999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          878.02104,
+          379.53472
+        ],
+        [
+          918.6061599999999,
+          404.4632
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          972.90472,
+          379.53472
+        ],
+        [
+          1013.48984,
+          404.4632
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          992.58656,
+          1978.48296
+        ],
+        [
+          1036.58616,
+          2003.41144
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data4\\CITATION\\SPR_ENG_PCPS_2020_1_12\\SPR_ENG_PCPS_2020_1_12-4.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

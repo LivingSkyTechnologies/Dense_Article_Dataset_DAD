@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          627.9311999999999,
+          957.2758399999999
+        ],
+        [
+          794.3801599999999,
+          982.2043199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          807.8159999999999,
+          957.2758399999999
+        ],
+        [
+          949.5585599999999,
+          982.2043199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          962.9943999999998,
+          957.2758399999999
+        ],
+        [
+          1142.0463999999997,
+          982.2043199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          688.67008,
+          1193.0415199999998
+        ],
+        [
+          873.35736,
+          1217.9699999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          739.9983199999999,
+          1271.57456
+        ],
+        [
+          895.8984799999998,
+          1296.50304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          909.5008799999999,
+          1271.57456
+        ],
+        [
+          1072.00792,
+          1296.50304
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data3\\CITATION\\SPR_HS_LTA_2018_16\\SPR_HS_LTA_2018_16-6.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

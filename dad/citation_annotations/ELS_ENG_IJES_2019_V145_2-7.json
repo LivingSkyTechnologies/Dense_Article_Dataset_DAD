@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          524.77504,
+          155.456
+        ],
+        [
+          834.79872,
+          176.72016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1307.8291199999999,
+          155.456
+        ],
+        [
+          1398.8819199999998,
+          176.72016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          103.04511999999998,
+          184.49295999999998
+        ],
+        [
+          172.47287999999998,
+          205.75712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          227.21559999999997,
+          184.49295999999998
+        ],
+        [
+          378.36879999999996,
+          205.75712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          864.9460799999999,
+          381.06152
+        ],
+        [
+          1018.3478399999999,
+          402.32568
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1196.4837599999998,
+          774.4207200000001
+        ],
+        [
+          1349.6634399999998,
+          795.68488
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          807.62168,
+          1279.042
+        ],
+        [
+          1066.65024,
+          1300.3061599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2019_V145_2-7.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

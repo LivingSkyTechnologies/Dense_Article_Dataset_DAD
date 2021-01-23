@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          724.2306399999999,
+          1353.4943199999998
+        ],
+        [
+          1256.8617599999998,
+          1374.7584799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          259.16736,
+          1440.6052
+        ],
+        [
+          478.49911999999995,
+          1461.86936
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          966.9363199999999,
+          1701.93784
+        ],
+        [
+          1219.02488,
+          1723.202
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          103.04511999999998,
+          1498.6513599999998
+        ],
+        [
+          305.19343999999995,
+          1519.9155199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          199.95528,
+          1527.71608
+        ],
+        [
+          406.01775999999995,
+          1548.9802399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          553.0624799999999,
+          1556.7530399999998
+        ],
+        [
+          687.3376,
+          1578.0171999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          694.74952,
+          1556.7530399999998
+        ],
+        [
+          852.9815199999999,
+          1578.0171999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1284.8160799999998,
+          1614.8269599999999
+        ],
+        [
+          1398.5487999999998,
+          1636.0911199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          103.04511999999998,
+          1643.8639199999998
+        ],
+        [
+          264.74712,
+          1665.1280799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1116.8403199999998,
+          1672.90088
+        ],
+        [
+          1387.6113599999999,
+          1694.1650399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          103.04511999999998,
+          1701.93784
+        ],
+        [
+          436.47047999999995,
+          1723.202
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          446.24199999999996,
+          1701.93784
+        ],
+        [
+          699.2744,
+          1723.202
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          709.07368,
+          1701.93784
+        ],
+        [
+          957.1648,
+          1723.202
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2020_V146_1-1.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

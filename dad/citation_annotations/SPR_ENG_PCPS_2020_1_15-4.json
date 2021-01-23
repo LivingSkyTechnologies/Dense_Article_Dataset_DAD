@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          367.01496,
+          945.9497599999999
+        ],
+        [
+          403.68591999999995,
+          970.8782399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          403.68591999999995,
+          945.9497599999999
+        ],
+        [
+          415.90031999999997,
+          970.8782399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          415.90031999999997,
+          945.9497599999999
+        ],
+        [
+          452.57127999999994,
+          970.8782399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          460.816,
+          945.9497599999999
+        ],
+        [
+          481.77479999999997,
+          970.8782399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          691.52936,
+          1242.92624
+        ],
+        [
+          731.476,
+          1267.85472
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          527.8564,
+          1309.49472
+        ],
+        [
+          572.66104,
+          1334.4232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          622.12936,
+          1409.43072
+        ],
+        [
+          666.934,
+          1434.3592
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          453.09871999999996,
+          1542.73424
+        ],
+        [
+          493.68384,
+          1567.66272
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          694.52744,
+          1542.73424
+        ],
+        [
+          739.3320799999999,
+          1567.66272
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          845.90272,
+          1478.83072
+        ],
+        [
+          886.48784,
+          1503.7592
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          878.02104,
+          1712.07024
+        ],
+        [
+          919.99416,
+          1736.99872
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          928.0723199999999,
+          1712.07024
+        ],
+        [
+          959.4966399999998,
+          1736.99872
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          993.5303999999999,
+          1945.3097599999999
+        ],
+        [
+          1039.11232,
+          1970.23824
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data4\\CITATION\\SPR_ENG_PCPS_2020_1_15\\SPR_ENG_PCPS_2020_1_15-4.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

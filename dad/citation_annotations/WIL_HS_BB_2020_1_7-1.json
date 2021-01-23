@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          577.8443113772455,
+          1831.1377245508984
+        ],
+        [
+          716.1676646706587,
+          1858.0838323353294
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          897.6047904191618,
+          1759.2814371257487
+        ],
+        [
+          1308.3832335329341,
+          1785.62874251497
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1440.7185628742516,
+          1795.808383233533
+        ],
+        [
+          1526.9461077844312,
+          1821.556886227545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.1017964071857,
+          1833.5329341317365
+        ],
+        [
+          1008.3832335329341,
+          1859.2814371257487
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_BB_2020_1_7-1.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

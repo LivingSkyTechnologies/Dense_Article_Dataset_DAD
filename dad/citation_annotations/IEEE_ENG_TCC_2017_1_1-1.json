@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          215.91727999999998,
+          918.4951199999999
+        ],
+        [
+          243.81607999999997,
+          944.14536
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          313.49368,
+          1045.6636799999999
+        ],
+        [
+          341.39248,
+          1071.3139199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1257.44472,
+          1586.2619199999997
+        ],
+        [
+          1301.22224,
+          1611.9121599999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1213.72272,
+          1713.5970399999999
+        ],
+        [
+          1257.50024,
+          1739.2472799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          885.5717599999999,
+          1777.16744
+        ],
+        [
+          929.3492799999999,
+          1802.8176799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          360.88,
+          1045.6636799999999
+        ],
+        [
+          388.7788,
+          1071.3139199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          294.61688,
+          1204.61744
+        ],
+        [
+          322.51568,
+          1230.26768
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          339.47704,
+          1204.61744
+        ],
+        [
+          367.37584,
+          1230.26768
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          384.30943999999994,
+          1204.61744
+        ],
+        [
+          412.20823999999993,
+          1230.26768
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          459.40024,
+          1236.4026399999998
+        ],
+        [
+          487.29904,
+          1262.0528799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1066.09504,
+          982.0932799999998
+        ],
+        [
+          1093.9938399999999,
+          1007.7435199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1221.88416,
+          982.0932799999998
+        ],
+        [
+          1249.78296,
+          1007.7435199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1391.85864,
+          982.0932799999998
+        ],
+        [
+          1435.63616,
+          1007.7435199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TCC_2017_1_1\\IEEE_ENG_TCC_2017_1_1-1.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

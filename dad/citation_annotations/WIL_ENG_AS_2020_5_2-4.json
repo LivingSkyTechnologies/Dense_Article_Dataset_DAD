@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          754.228855721393,
+          1385.5721393034823
+        ],
+        [
+          804.4776119402984,
+          1402.4875621890546
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          519.4029850746268,
+          1507.462686567164
+        ],
+        [
+          547.2636815920397,
+          1525.8706467661689
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          990.547263681592,
+          1717.9104477611938
+        ],
+        [
+          1015.4228855721392,
+          1741.2935323383083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1236.3184079601988,
+          1507.462686567164
+        ],
+        [
+          1262.189054726368,
+          1524.875621890547
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1485.5721393034823,
+          1933.333333333333
+        ],
+        [
+          1510.4477611940297,
+          1952.73631840796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_5_2-4.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

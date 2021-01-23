@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1883.5164835164835,
+          1785.7142857142856
+        ],
+        [
+          2100.0,
+          1819.7802197802198
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          153.84615384615384,
+          1824.7252747252746
+        ],
+        [
+          225.27472527472526,
+          1853.2967032967033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          146.7032967032967,
+          2192.3076923076924
+        ],
+        [
+          362.08791208791206,
+          2232.967032967033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          239.010989010989,
+          2541.7582417582416
+        ],
+        [
+          2103.846153846154,
+          2579.120879120879
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1566.4835164835165,
+          2409.8901098901097
+        ],
+        [
+          1825.8241758241757,
+          2450.5494505494503
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          2106.5934065934066,
+          2804.395604395604
+        ],
+        [
+          1234.065934065934,
+          2841.7582417582416
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          150.0,
+          2846.153846153846
+        ],
+        [
+          536.2637362637363,
+          2884.6153846153843
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2020_V146_6-3.jpg",
+  "imageData": null,
+  "imageHeight": 3095,
+  "imageWidth": 2268
+}

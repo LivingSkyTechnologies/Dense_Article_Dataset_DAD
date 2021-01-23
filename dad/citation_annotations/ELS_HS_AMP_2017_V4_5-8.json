@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          464.11943999999994,
+          1346.80416
+        ],
+        [
+          578.5739199999999,
+          1367.7351999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          591.8987199999999,
+          1404.87808
+        ],
+        [
+          691.3627999999999,
+          1425.80912
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          91.13607999999999,
+          1433.9983200000001
+        ],
+        [
+          199.84423999999996,
+          1454.92936
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          405.40703999999994,
+          1521.0259199999998
+        ],
+        [
+          493.4617599999999,
+          1541.9569599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          975.2920799999999,
+          1492.04448
+        ],
+        [
+          1090.32952,
+          1512.97552
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_HS_AMP_2017_V4_5-8.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

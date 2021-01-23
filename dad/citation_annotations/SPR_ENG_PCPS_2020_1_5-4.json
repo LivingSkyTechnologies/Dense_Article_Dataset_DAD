@@ -1,0 +1,154 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          278.23848,
+          661.5763199999999
+        ],
+        [
+          305.66535999999996,
+          686.5047999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          393.60903999999994,
+          904.25424
+        ],
+        [
+          434.19415999999995,
+          929.18272
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          340.89279999999997,
+          1572.49296
+        ],
+        [
+          381.58896,
+          1597.42144
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          157.37143999999998,
+          1805.70472
+        ],
+        [
+          199.34455999999997,
+          1830.6332
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          207.58928,
+          1805.70472
+        ],
+        [
+          239.0136,
+          1830.6332
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          737.47216,
+          2011.8782399999998
+        ],
+        [
+          765.3709600000001,
+          2036.8067199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1227.88032,
+          312.96623999999997
+        ],
+        [
+          1268.46544,
+          337.89471999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1192.79168,
+          522.2766399999999
+        ],
+        [
+          1233.3768,
+          547.20512
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1388.4163999999998,
+          1446.1016799999998
+        ],
+        [
+          1429.0015199999998,
+          1471.0301599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_PCPS_2020_1_5-4.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

@@ -1,0 +1,186 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          338.67199999999997,
+          847.98472
+        ],
+        [
+          378.95176,
+          873.6349600000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          593.6475999999999,
+          914.3866399999999
+        ],
+        [
+          637.4251199999999,
+          940.03688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          384.17063999999993,
+          1600.41952
+        ],
+        [
+          552.6666666666667,
+          1627.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          864.8072799999999,
+          510.56191999999993
+        ],
+        [
+          905.0870399999999,
+          536.2121599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          924.60232,
+          510.56191999999993
+        ],
+        [
+          964.88208,
+          536.2121599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1312.5483199999999,
+          510.56191999999993
+        ],
+        [
+          1352.8280799999998,
+          536.2121599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1395.46744,
+          541.0979199999999
+        ],
+        [
+          1435.7471999999998,
+          566.74816
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1092.99448,
+          571.46736
+        ],
+        [
+          1133.27424,
+          597.1176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1148.4034399999998,
+          571.46736
+        ],
+        [
+          1188.6831999999997,
+          597.1176
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1090.1629599999999,
+          601.8368
+        ],
+        [
+          1118.0617599999998,
+          627.4870400000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1262.3304799999999,
+          1215.30504
+        ],
+        [
+          1302.6102399999997,
+          1240.95528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IEEE_ENG_TMC_2019_1_1-4.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

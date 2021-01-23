@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          412.18047999999993,
+          1624.0987999999998
+        ],
+        [
+          429.50271999999995,
+          1640.5604799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          429.50271999999995,
+          1624.0987999999998
+        ],
+        [
+          438.16383999999994,
+          1640.5604799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          383.53216,
+          1658.74328
+        ],
+        [
+          393.94216,
+          1675.2049599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          637.70272,
+          1658.74328
+        ],
+        [
+          648.11272,
+          1675.2049599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          383.53216,
+          1693.36
+        ],
+        [
+          393.94216,
+          1709.8216799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          489.1311999999999,
+          1935.8713599999999
+        ],
+        [
+          499.54119999999995,
+          1952.3330399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SAG_ENG_AME_2020_5_2-1.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

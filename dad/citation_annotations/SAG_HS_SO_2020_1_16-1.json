@@ -1,0 +1,138 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          313.88231999999994,
+          1429.8065599999998
+        ],
+        [
+          677.8714399999999,
+          1454.1798399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          692.0290399999999,
+          1429.8065599999998
+        ],
+        [
+          845.2364799999999,
+          1454.1798399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          174.88799999999998,
+          1463.1185599999997
+        ],
+        [
+          234.65527999999998,
+          1487.4918399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          612.5799199999999,
+          1529.7425599999997
+        ],
+        [
+          748.3818399999999,
+          1554.1158399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          309.55176,
+          1696.3025599999996
+        ],
+        [
+          600.64312,
+          1720.6758399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          208.2,
+          1729.6145599999998
+        ],
+        [
+          490.04727999999994,
+          1753.9878399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          329.31687999999997,
+          1929.4865599999996
+        ],
+        [
+          610.5811999999999,
+          1953.8598399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1200.0,
+          1694.387755102041
+        ],
+        [
+          1442.3469387755101,
+          1725.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SAG_HS_SO_2020_1_16-1.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 1700
+}

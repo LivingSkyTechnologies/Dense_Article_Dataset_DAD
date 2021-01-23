@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          635.3909465020575,
+          405.3497942386831
+        ],
+        [
+          686.4197530864197,
+          425.51440329218104
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          585.1851851851851,
+          467.48971193415633
+        ],
+        [
+          609.4650205761317,
+          486.00823045267487
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          776.5432098765432,
+          620.1646090534979
+        ],
+        [
+          802.469135802469,
+          640.3292181069959
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          509.4650205761317,
+          772.8395061728395
+        ],
+        [
+          561.3168724279835,
+          792.1810699588477
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1206.5843621399176,
+          1752.2633744855966
+        ],
+        [
+          1253.0864197530864,
+          1767.9012345679012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          967.9012345679012,
+          1539.0946502057611
+        ],
+        [
+          1014.8148148148148,
+          1555.5555555555554
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1077.366255144033,
+          527.9835390946502
+        ],
+        [
+          1127.1604938271605,
+          548.1481481481482
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_5_2-2.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

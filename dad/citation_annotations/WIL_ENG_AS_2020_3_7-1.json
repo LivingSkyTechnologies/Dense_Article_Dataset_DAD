@@ -1,0 +1,74 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1203.0716723549488,
+          590.1023890784983
+        ],
+        [
+          1231.7406143344708,
+          606.8259385665528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1257.3378839590443,
+          773.3788395904436
+        ],
+        [
+          1274.0614334470988,
+          793.5153583617747
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1162.4573378839589,
+          928.3276450511945
+        ],
+        [
+          1179.1808873720136,
+          946.0750853242321
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1147.0989761092148,
+          1232.0819112627985
+        ],
+        [
+          1163.8225255972695,
+          1250.1706484641638
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_3_7-1.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

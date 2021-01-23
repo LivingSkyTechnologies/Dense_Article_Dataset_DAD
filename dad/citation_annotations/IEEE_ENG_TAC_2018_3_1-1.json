@@ -1,0 +1,330 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          197.5124,
+          1113.3147999999999
+        ],
+        [
+          225.16136,
+          1138.9650399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          244.87095999999997,
+          1113.3147999999999
+        ],
+        [
+          272.51991999999996,
+          1138.9650399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          856.31272,
+          986.174
+        ],
+        [
+          896.59248,
+          1011.82424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1289.56304,
+          986.174
+        ],
+        [
+          1333.34056,
+          1011.82424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          802.958,
+          1240.64992
+        ],
+        [
+          846.2358399999999,
+          1266.30016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1217.80344,
+          1240.64992
+        ],
+        [
+          1257.41696,
+          1266.30016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1301.05568,
+          1272.4628799999998
+        ],
+        [
+          1340.808,
+          1298.1131199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1036.9748,
+          1463.20184
+        ],
+        [
+          1076.5883199999998,
+          1488.85208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1091.1068,
+          1463.20184
+        ],
+        [
+          1130.72032,
+          1488.85208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          865.88992,
+          1717.6777599999998
+        ],
+        [
+          905.3924,
+          1743.3279999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1227.24184,
+          1781.2759199999998
+        ],
+        [
+          1266.6055199999998,
+          1806.9261599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1282.0123199999998,
+          1781.2759199999998
+        ],
+        [
+          1321.5980799999998,
+          1806.9261599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          678.78752,
+          1240.64992
+        ],
+        [
+          706.43648,
+          1266.30016
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          467.56167999999997,
+          1272.4351199999999
+        ],
+        [
+          495.46047999999996,
+          1298.0853599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          512.7271999999999,
+          1272.4351199999999
+        ],
+        [
+          540.626,
+          1298.0853599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          532.2424799999999,
+          1367.81848
+        ],
+        [
+          560.1412799999999,
+          1393.4687199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          72.70344,
+          1431.38888
+        ],
+        [
+          100.60224,
+          1457.03912
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          689.64168,
+          1495.12584
+        ],
+        [
+          717.54048,
+          1520.7760799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          957.19256,
+          954.3888
+        ],
+        [
+          985.09136,
+          980.03904
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1267.85472,
+          954.3888
+        ],
+        [
+          1308.13448,
+          980.03904
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TAC_2018_3_1\\IEEE_ENG_TAC_2018_3_1-1.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

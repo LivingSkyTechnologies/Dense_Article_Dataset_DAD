@@ -1,0 +1,154 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          311.94539249146754,
+          1323.2081911262799
+        ],
+        [
+          346.75767918088735,
+          1342.320819112628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          242.320819112628,
+          1353.924914675768
+        ],
+        [
+          294.19795221843003,
+          1372.013651877133
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          374.74402730375425,
+          1353.5836177474403
+        ],
+        [
+          421.84300341296927,
+          1372.3549488054607
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          195.90443686006824,
+          1384.3003412969283
+        ],
+        [
+          244.36860068259384,
+          1402.730375426621
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          768.9419795221843,
+          1323.890784982935
+        ],
+        [
+          811.2627986348123,
+          1343.003412969283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          943.0034129692832,
+          1353.2423208191126
+        ],
+        [
+          995.2218430034129,
+          1370.98976109215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1229.692832764505,
+          1108.8737201365186
+        ],
+        [
+          1256.3139931740614,
+          1127.6450511945393
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1439.9317406143343,
+          957.679180887372
+        ],
+        [
+          1465.8703071672355,
+          976.7918088737201
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1364.5051194539249,
+          681.2286689419794
+        ],
+        [
+          1382.9351535836176,
+          701.3651877133105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_5_5-1.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

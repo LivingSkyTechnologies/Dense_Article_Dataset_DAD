@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          567.0257599999999,
+          1477.5537599999998
+        ],
+        [
+          790.6880799999999,
+          1501.8715199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1055.2408799999998,
+          1650.52632
+        ],
+        [
+          1319.4327999999998,
+          1674.8440799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          968.99056,
+          1754.2376799999997
+        ],
+        [
+          1115.0081599999999,
+          1778.5554399999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          848.0,
+          1854.5
+        ],
+        [
+          1195.0,
+          1881.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          138.55421686746988,
+          1507.8313253012047
+        ],
+        [
+          201.2048192771084,
+          1533.1325301204818
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1189.7590361445782,
+          1683.1325301204818
+        ],
+        [
+          1504.8192771084337,
+          1711.4457831325299
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2016_3_1-9.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

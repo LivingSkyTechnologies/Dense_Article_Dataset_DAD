@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          355.982905982906,
+          833.7606837606838
+        ],
+        [
+          591.8803418803419,
+          863.2478632478633
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          776.4957264957266,
+          985.0427350427351
+        ],
+        [
+          1053.4188034188035,
+          1008.974358974359
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1285.4700854700855,
+          1015.3846153846155
+        ],
+        [
+          1412.820512820513,
+          1037.6068376068376
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          767.5213675213676,
+          1341.880341880342
+        ],
+        [
+          1130.3418803418804,
+          1365.3846153846155
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          111.53846153846155,
+          1042.3076923076924
+        ],
+        [
+          287.60683760683764,
+          1067.948717948718
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          571.9298245614035,
+          1893.5672514619882
+        ],
+        [
+          815.2046783625731,
+          1916.0818713450292
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2015_V94_1-14.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

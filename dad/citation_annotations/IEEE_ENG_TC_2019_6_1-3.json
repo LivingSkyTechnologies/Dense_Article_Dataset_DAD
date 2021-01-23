@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          191.84936,
+          227.13231999999996
+        ],
+        [
+          235.29376,
+          252.78255999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          138.79999999999998,
+          386.08608
+        ],
+        [
+          182.24439999999998,
+          411.73632
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          372.51144,
+          418.03783999999996
+        ],
+        [
+          412.45808,
+          443.68807999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          428.0591999999999,
+          418.03783999999996
+        ],
+        [
+          471.4203199999999,
+          443.68807999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          719.84456,
+          481.60823999999997
+        ],
+        [
+          759.84672,
+          507.25847999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          428.53112,
+          640.5619999999999
+        ],
+        [
+          472.30863999999997,
+          666.21224
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          129.52815999999999,
+          799.6823199999999
+        ],
+        [
+          169.80791999999997,
+          825.33256
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          523.44256,
+          863.2527200000001
+        ],
+        [
+          567.2200799999999,
+          888.9029600000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          500.1519199999999,
+          895.03792
+        ],
+        [
+          540.4316799999999,
+          920.68816
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          102.60096,
+          958.6083199999999
+        ],
+        [
+          146.37848,
+          984.25856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          415.17856,
+          1085.77688
+        ],
+        [
+          445.8256,
+          1111.4271199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          160.67488,
+          1276.6824
+        ],
+        [
+          191.32192,
+          1302.3326399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1405.0723999999998,
+          2039.97136
+        ],
+        [
+          1445.3521599999997,
+          2065.6216
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data9\\IEEE_ENG_TAC&TC&TCC&TMC_COLLECTION\\CITATION\\IEEE_ENG_TC_2019_6_1\\IEEE_ENG_TC_2019_6_1-3.jpg",
+  "imageData": null,
+  "imageHeight": 2142,
+  "imageWidth": 1569
+}

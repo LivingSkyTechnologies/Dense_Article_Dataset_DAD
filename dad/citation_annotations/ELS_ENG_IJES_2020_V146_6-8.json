@@ -1,0 +1,138 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          451.12775999999997,
+          446.07543999999996
+        ],
+        [
+          781.66608,
+          467.33959999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          789.88304,
+          446.07543999999996
+        ],
+        [
+          1023.2058400000001,
+          467.33959999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1031.4228,
+          446.07543999999996
+        ],
+        [
+          1193.59672,
+          467.33959999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1201.84144,
+          446.07543999999996
+        ],
+        [
+          1410.6521599999999,
+          467.33959999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          114.98192,
+          475.0846399999999
+        ],
+        [
+          367.4036,
+          496.3487999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          374.95431999999994,
+          475.0846399999999
+        ],
+        [
+          755.9603199999999,
+          496.3487999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          763.51104,
+          475.0846399999999
+        ],
+        [
+          1229.768,
+          496.3487999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          111.70212765957447,
+          793.2624113475177
+        ],
+        [
+          248.58156028368796,
+          820.5673758865248
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2020_V146_6-8.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

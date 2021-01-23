@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          365.43263999999994,
+          1687.5581599999998
+        ],
+        [
+          397.3288799999999,
+          1707.4620799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          397.32887999999997,
+          1687.5581599999998
+        ],
+        [
+          407.96095999999994,
+          1707.4620799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          397.32887999999997,
+          1687.5581599999998
+        ],
+        [
+          407.96095999999994,
+          1707.4620799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          397.32887999999997,
+          1687.5581599999998
+        ],
+        [
+          407.96095999999994,
+          1707.4620799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          407.96096,
+          1687.5581599999998
+        ],
+        [
+          439.8572,
+          1707.4620799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1498.87344,
+          1106.6524
+        ],
+        [
+          1538.23712,
+          1126.55632
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1113.14824,
+          1280.87416
+        ],
+        [
+          1152.48416,
+          1300.77808
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          677.8159199999999,
+          874.3844799999999
+        ],
+        [
+          711.7108799999999,
+          894.2883999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          711.71088,
+          874.3844799999999
+        ],
+        [
+          723.0092,
+          894.2883999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          723.0092,
+          874.3844799999999
+        ],
+        [
+          756.9041599999999,
+          894.2883999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          251.81095999999997,
+          1397.022
+        ],
+        [
+          291.14687999999995,
+          1416.92592
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          401.77047999999996,
+          1542.29008
+        ],
+        [
+          441.77263999999997,
+          1562.194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          441.80039999999997,
+          1542.29008
+        ],
+        [
+          471.80895999999996,
+          1562.194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_24-8.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

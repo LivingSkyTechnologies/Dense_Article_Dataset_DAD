@@ -1,0 +1,42 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1079.4701986754967,
+          1490.0662251655629
+        ],
+        [
+          1348.3443708609273,
+          1528.476821192053
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          539.0728476821192,
+          1400.0
+        ],
+        [
+          807.2847682119206,
+          1440.3973509933776
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2020_V146_1-5.jpg",
+  "imageData": null,
+  "imageHeight": 3095,
+  "imageWidth": 2268
+}

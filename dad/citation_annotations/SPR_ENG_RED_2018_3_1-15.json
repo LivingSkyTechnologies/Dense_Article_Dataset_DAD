@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1291.9504,
+          749.9919199999999
+        ],
+        [
+          1498.8734399999998,
+          781.8603999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          628.476821192053,
+          953.6423841059602
+        ],
+        [
+          807.2847682119206,
+          986.092715231788
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          139.0728476821192,
+          989.4039735099337
+        ],
+        [
+          330.4635761589404,
+          1020.5298013245033
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          523.841059602649,
+          1197.3509933774835
+        ],
+        [
+          801.3245033112582,
+          1227.8145695364237
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          139.73509933774835,
+          1235.7615894039734
+        ],
+        [
+          215.89403973509934,
+          1266.2251655629138
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          723.1788079470199,
+          1616.5562913907286
+        ],
+        [
+          798.6754966887418,
+          1645.6953642384105
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          139.0728476821192,
+          1652.9801324503312
+        ],
+        [
+          426.49006622516555,
+          1677.4834437086092
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2018_3_1-15.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

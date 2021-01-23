@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          131.47135999999998,
+          999.97072
+        ],
+        [
+          439.07992,
+          1021.23488
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          455.29175999999995,
+          999.97072
+        ],
+        [
+          659.6053599999999,
+          1021.23488
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          986.84024,
+          1510.4216
+        ],
+        [
+          1350.74608,
+          1531.6857599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          814.6666666666666,
+          1830.4
+        ],
+        [
+          1105.6,
+          1849.6
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          877.0666666666667,
+          1853.6
+        ],
+        [
+          1151.4666666666667,
+          1874.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          508.2191780821918,
+          1646.5753424657535
+        ],
+        [
+          714.6118721461187,
+          1670.7762557077626
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          386.7579908675799,
+          1876.2557077625572
+        ],
+        [
+          600.0,
+          1900.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2018_V128_1-6.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

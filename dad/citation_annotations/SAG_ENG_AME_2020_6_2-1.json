@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          752.9067200000001,
+          1876.7147999999997
+        ],
+        [
+          763.20568,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          763.17792,
+          1876.7147999999997
+        ],
+        [
+          773.4768799999999,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          763.17792,
+          1876.7147999999997
+        ],
+        [
+          773.4768799999999,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          763.17792,
+          1876.7147999999997
+        ],
+        [
+          773.4768799999999,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          763.17792,
+          1876.7147999999997
+        ],
+        [
+          773.4768799999999,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          773.4768799999999,
+          1876.7147999999997
+        ],
+        [
+          783.7758399999999,
+          1893.1764799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data6\\CITATION\\SAG_ENG_AME_2020_6_2\\SAG_ENG_AME_2020_6_2-1.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

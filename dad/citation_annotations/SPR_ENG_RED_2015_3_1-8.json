@@ -1,0 +1,170 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          141.63152,
+          1180.43848
+        ],
+        [
+          539.87648,
+          1204.75624
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          525.33024,
+          736.38952
+        ],
+        [
+          672.7636,
+          757.04296
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          591.12144,
+          799.3491999999999
+        ],
+        [
+          683.36792,
+          820.0026399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          158.31528,
+          827.05368
+        ],
+        [
+          213.1968,
+          847.70712
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          234.96240601503757,
+          572.9323308270676
+        ],
+        [
+          416.91729323308266,
+          593.984962406015
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          312.0300751879699,
+          445.8646616541353
+        ],
+        [
+          578.9473684210526,
+          467.29323308270676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          157.51879699248119,
+          383.45864661654133
+        ],
+        [
+          356.76691729323306,
+          407.1428571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          609.3984962406015,
+          292.4812030075188
+        ],
+        [
+          703.7593984962406,
+          316.9172932330827
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          155.26315789473682,
+          320.30075187969925
+        ],
+        [
+          215.0375939849624,
+          344.7368421052631
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          329.25531914893617,
+          888.2978723404254
+        ],
+        [
+          573.1382978723404,
+          909.8404255319149
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2015_3_1-8.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

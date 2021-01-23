@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          557.4208,
+          948.0039999999999
+        ],
+        [
+          802.34728,
+          972.3217599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          141.63152,
+          982.62072
+        ],
+        [
+          210.89272,
+          1006.93848
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          192.62663999999998,
+          1293.7548
+        ],
+        [
+          375.89815999999996,
+          1318.0725599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          141.63152,
+          1362.84944
+        ],
+        [
+          348.69336,
+          1387.1671999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          739.6929599999999,
+          1431.94408
+        ],
+        [
+          802.4583199999998,
+          1456.26184
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          141.63152,
+          1466.5607999999997
+        ],
+        [
+          433.27807999999993,
+          1490.8785599999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1282.6508,
+          947.97624
+        ],
+        [
+          1440.4386399999999,
+          972.294
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1243.1483199999998,
+          1639.3390399999998
+        ],
+        [
+          1510.8379999999997,
+          1663.6567999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          849.8446399999999,
+          1673.9557599999998
+        ],
+        [
+          908.5292799999999,
+          1698.2735199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1048.7728,
+          1708.57248
+        ],
+        [
+          1277.18208,
+          1732.89024
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          249.99999999999997,
+          1602.8985507246375
+        ],
+        [
+          582.6086956521739,
+          1631.159420289855
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          130.43478260869563,
+          1912.31884057971
+        ],
+        [
+          564.4927536231884,
+          1940.5797101449273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1186.9565217391303,
+          1499.2753623188405
+        ],
+        [
+          1505.0724637681158,
+          1526.086956521739
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2017_4_1-4.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}
