@@ -1,0 +1,4422 @@
+{
+    "name": "WIL_HS_APPS_2019_3_2",
+    "securityToken": "WIL_HS_APPS_2019_3_2 Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "title",
+            "color": "#5db300"
+        },
+        {
+            "name": "author_name",
+            "color": "#e81123"
+        },
+        {
+            "name": "contact_info",
+            "color": "#015cda"
+        },
+        {
+            "name": "affiliation",
+            "color": "#6917aa"
+        },
+        {
+            "name": "abstract",
+            "color": "#4894fe"
+        },
+        {
+            "name": "keywords",
+            "color": "#6b849c"
+        },
+        {
+            "name": "doi",
+            "color": "#70c400"
+        },
+        {
+            "name": "date",
+            "color": "#015cda"
+        },
+        {
+            "name": "copyright",
+            "color": "#6917aa"
+        },
+        {
+            "name": "section_heading",
+            "color": "#257ffe"
+        },
+        {
+            "name": "subheading",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "funding_info",
+            "color": "#f7929a"
+        },
+        {
+            "name": "core_text",
+            "color": "#595959"
+        },
+        {
+            "name": "figure",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "table",
+            "color": "#386300"
+        },
+        {
+            "name": "caption",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "math_formula",
+            "color": "#016afe"
+        },
+        {
+            "name": "index",
+            "color": "#015cda"
+        },
+        {
+            "name": "list",
+            "color": "#6917aa"
+        },
+        {
+            "name": "citation",
+            "color": "#015cda"
+        },
+        {
+            "name": "reference",
+            "color": "#808080"
+        },
+        {
+            "name": "note",
+            "color": "#990066"
+        },
+        {
+            "name": "author_bio",
+            "color": "#00bcf2"
+        },
+        {
+            "name": "appendice",
+            "color": "#5db300"
+        },
+        {
+            "name": "URLs_to_supplementary",
+            "color": "#e81123"
+        },
+        {
+            "name": "Highlights",
+            "color": "#6917aa"
+        },
+        {
+            "name": "conflict_int",
+            "color": "#015cda"
+        },
+        {
+            "name": "author_contribution",
+            "color": "#4894fe"
+        },
+        {
+            "name": "publisher_note",
+            "color": "#6b849c"
+        },
+        {
+            "name": "additional_file",
+            "color": "#70c400"
+        },
+        {
+            "name": "abbreviation",
+            "color": "#f7929a"
+        },
+        {
+            "name": "availability_of_data",
+            "color": "#257ffe"
+        },
+        {
+            "name": "nomenclature",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "editor",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "publisher",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "journal",
+            "color": "#68217a"
+        },
+        {
+            "name": "acknowledgment",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "article_history",
+            "color": "#68217a"
+        }
+    ],
+    "id": "AJfhXbeO7",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "442199cedca56efa242323be456d71ae",
+    "assets": {
+        "442199cedca56efa242323be456d71ae": {
+            "asset": {
+                "format": "jpg",
+                "id": "442199cedca56efa242323be456d71ae",
+                "name": "WIL_HS_APPS_2019_3_2-9.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-9.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "nBIVzbO2i",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1379.3256293887184,
+                        "width": 1183.2567218889508,
+                        "left": 84.66857142857143,
+                        "top": 468.75995298113145
+                    },
+                    "points": [
+                        {
+                            "x": 84.66857142857143,
+                            "y": 468.75995298113145
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 468.75995298113145
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 1848.0855823698498
+                        },
+                        {
+                            "x": 84.66857142857143,
+                            "y": 1848.0855823698498
+                        }
+                    ]
+                },
+                {
+                    "id": "7R_LJnVgv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 230.49416554768882,
+                        "width": 1174.110915108817,
+                        "left": 88.95762388392856,
+                        "top": 114.52680471511115
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 345.02097026279995
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 345.02097026279995
+                        }
+                    ]
+                },
+                {
+                    "id": "zuOEyBMqo",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 48.52505536760603,
+                        "width": 835.3550727539063,
+                        "left": 86.05240345982142,
+                        "top": 401.06306243169877
+                    },
+                    "points": [
+                        {
+                            "x": 86.05240345982142,
+                            "y": 401.06306243169877
+                        },
+                        {
+                            "x": 921.4074762137276,
+                            "y": 401.06306243169877
+                        },
+                        {
+                            "x": 921.4074762137276,
+                            "y": 449.5881177993048
+                        },
+                        {
+                            "x": 86.05240345982142,
+                            "y": 449.5881177993048
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5d93429da8d4931db610a4b6936a93aa": {
+            "asset": {
+                "format": "jpg",
+                "id": "5d93429da8d4931db610a4b6936a93aa",
+                "name": "WIL_HS_APPS_2019_3_2-8.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-8.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "AQWwxIGdk",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 292.3637038457961,
+                        "width": 1174.8441732003346,
+                        "left": 78.51085714285713,
+                        "top": 1552.0826085045226
+                    },
+                    "points": [
+                        {
+                            "x": 78.51085714285713,
+                            "y": 1552.0826085045226
+                        },
+                        {
+                            "x": 1253.3550303431916,
+                            "y": 1552.0826085045226
+                        },
+                        {
+                            "x": 1253.3550303431916,
+                            "y": 1844.4463123503187
+                        },
+                        {
+                            "x": 78.51085714285713,
+                            "y": 1844.4463123503187
+                        }
+                    ]
+                },
+                {
+                    "id": "IcloTXVbs",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 42.45946451822917,
+                        "width": 641.0864031110491,
+                        "left": 114.45534919084821,
+                        "top": 1174.799975622268
+                    },
+                    "points": [
+                        {
+                            "x": 114.45534919084821,
+                            "y": 1174.799975622268
+                        },
+                        {
+                            "x": 755.5417523018973,
+                            "y": 1174.799975622268
+                        },
+                        {
+                            "x": 755.5417523018973,
+                            "y": 1217.2594401404972
+                        },
+                        {
+                            "x": 114.45534919084821,
+                            "y": 1217.2594401404972
+                        }
+                    ]
+                },
+                {
+                    "id": "QzuhzGtvz",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 46.0988284156436,
+                        "width": 984.6989997907366,
+                        "left": 101.09941573660714,
+                        "top": 107.2480299813407
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1085.7984155273436,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1085.7984155273436,
+                            "y": 153.3468583969843
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 153.3468583969843
+                        }
+                    ]
+                },
+                {
+                    "id": "AaogWVXLX",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "table"
+                    ],
+                    "boundingBox": {
+                        "height": 363.9380795433408,
+                        "width": 1161.9692172154018,
+                        "left": 81.67249239676339,
+                        "top": 1155.3899722508022
+                    },
+                    "points": [
+                        {
+                            "x": 81.67249239676339,
+                            "y": 1155.3899722508022
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 1155.3899722508022
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 1519.328051794143
+                        },
+                        {
+                            "x": 81.67249239676339,
+                            "y": 1519.328051794143
+                        }
+                    ]
+                },
+                {
+                    "id": "5Yblimn8k",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "table"
+                    ],
+                    "boundingBox": {
+                        "height": 1027.5187550136022,
+                        "width": 1151.0415669642857,
+                        "left": 86.52924672154018,
+                        "top": 101.18239219302224
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 101.18239219302224
+                        },
+                        {
+                            "x": 1237.570813685826,
+                            "y": 101.18239219302224
+                        },
+                        {
+                            "x": 1237.570813685826,
+                            "y": 1128.7011472066245
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1128.7011472066245
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "026d5a15f6c226d46244e4199fb236bd": {
+            "asset": {
+                "format": "jpg",
+                "id": "026d5a15f6c226d46244e4199fb236bd",
+                "name": "WIL_HS_APPS_2019_3_2-7.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-7.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "_7IEoms0F",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1722.6406390235538,
+                        "width": 1176.5391983119418,
+                        "left": 88.95762388392856,
+                        "top": 113.31366776965913
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 1835.954306793213
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1835.954306793213
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "4288946a804a8c9db02995de961bd22a": {
+            "asset": {
+                "format": "jpg",
+                "id": "4288946a804a8c9db02995de961bd22a",
+                "name": "WIL_HS_APPS_2019_3_2-6.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-6.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "K1kLfvyi_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 811.5821154639835,
+                        "width": 1182.610282156808,
+                        "left": 79.244115234375,
+                        "top": 102.39552913847425
+                    },
+                    "points": [
+                        {
+                            "x": 79.244115234375,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1261.854397391183,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1261.854397391183,
+                            "y": 913.9776446024578
+                        },
+                        {
+                            "x": 79.244115234375,
+                            "y": 913.9776446024578
+                        }
+                    ]
+                },
+                {
+                    "id": "sf0U5ZDQ_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 673.285606747582,
+                        "width": 1171.4223647460938,
+                        "left": 81.67249239676337,
+                        "top": 1028.0115786961148
+                    },
+                    "points": [
+                        {
+                            "x": 81.67249239676337,
+                            "y": 1028.0115786961148
+                        },
+                        {
+                            "x": 1253.094857142857,
+                            "y": 1028.0115786961148
+                        },
+                        {
+                            "x": 1253.094857142857,
+                            "y": 1701.297185443697
+                        },
+                        {
+                            "x": 81.67249239676337,
+                            "y": 1701.297185443697
+                        }
+                    ]
+                },
+                {
+                    "id": "LuhZqMUh2",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 64.29574178059896,
+                        "width": 514.81182421875,
+                        "left": 84.10086955915179,
+                        "top": 955.2239252362933
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 955.2239252362933
+                        },
+                        {
+                            "x": 598.9126937779017,
+                            "y": 955.2239252362933
+                        },
+                        {
+                            "x": 598.9126937779017,
+                            "y": 1019.5196670168923
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1019.5196670168923
+                        }
+                    ]
+                },
+                {
+                    "id": "2_-0KI-VS",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "note"
+                    ],
+                    "boundingBox": {
+                        "height": 110.39457019624257,
+                        "width": 1163.1832648577008,
+                        "left": 78.0299736328125,
+                        "top": 1717.0679187956312
+                    },
+                    "points": [
+                        {
+                            "x": 78.0299736328125,
+                            "y": 1717.0679187956312
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1717.0679187956312
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1827.4624889918737
+                        },
+                        {
+                            "x": 78.0299736328125,
+                            "y": 1827.4624889918737
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "0d03aae0efac89c2048decc83bba376a": {
+            "asset": {
+                "format": "jpg",
+                "id": "0d03aae0efac89c2048decc83bba376a",
+                "name": "WIL_HS_APPS_2019_3_2-5.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-5.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "xm6YvcP4L",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1709.296203031994,
+                        "width": 1166.8258775809152,
+                        "left": 88.95762388392856,
+                        "top": 115.73991819109236
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1825.0361212230864
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1825.0361212230864
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "8d89161310df245e99dcc21947de528e": {
+            "asset": {
+                "format": "jpg",
+                "id": "8d89161310df245e99dcc21947de528e",
+                "name": "WIL_HS_APPS_2019_3_2-43.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-43.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "T_nf98JYg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1373.2600620088124,
+                        "width": 1153.4699441266741,
+                        "left": 101.09941573660714,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 1485.3605928330196
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1485.3605928330196
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a3211e070fe0116cd7323ed49c90fbf1": {
+            "asset": {
+                "format": "jpg",
+                "id": "a3211e070fe0116cd7323ed49c90fbf1",
+                "name": "WIL_HS_APPS_2019_3_2-42.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-42.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "WPrcnp6Q4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1710.509480794271,
+                        "width": 1183.8244237583706,
+                        "left": 91.38590708705357,
+                        "top": 115.73991819109236
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 1826.2493989853633
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1826.2493989853633
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "dded8b953fc1efc8bc851357eb81a84f": {
+            "asset": {
+                "format": "jpg",
+                "id": "dded8b953fc1efc8bc851357eb81a84f",
+                "name": "WIL_HS_APPS_2019_3_2-41.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-41.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "OoQpjYQuB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1725.0668659755163,
+                        "width": 1158.3266984514507,
+                        "left": 91.38590708705357,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1249.7126055385045,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1249.7126055385045,
+                            "y": 1837.1673967997235
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1837.1673967997235
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "f31d8c86829cd4bb0cb9e4de78d45cb8": {
+            "asset": {
+                "format": "jpg",
+                "id": "f31d8c86829cd4bb0cb9e4de78d45cb8",
+                "name": "WIL_HS_APPS_2019_3_2-40.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-40.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Fy6w6FRSd",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1685.0337692260744,
+                        "width": 1165.6117359793527,
+                        "left": 88.95762388392856,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 1797.1343000502814
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1797.1343000502814
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "68944d4d7d2a2187e73bd033fabebde7": {
+            "asset": {
+                "format": "jpg",
+                "id": "68944d4d7d2a2187e73bd033fabebde7",
+                "name": "WIL_HS_APPS_2019_3_2-4.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-4.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "edAKSKyQc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1703.2305887131465,
+                        "width": 1183.824329799107,
+                        "left": 86.52924672154018,
+                        "top": 114.52680471511115
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1270.3535765206473,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1270.3535765206473,
+                            "y": 1817.7573934282577
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1817.7573934282577
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "3698aed352b1ffa92556e11a84c303d1": {
+            "asset": {
+                "format": "jpg",
+                "id": "3698aed352b1ffa92556e11a84c303d1",
+                "name": "WIL_HS_APPS_2019_3_2-39.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-39.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "3FyW1EzXB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1720.214341663179,
+                        "width": 1171.682631905692,
+                        "left": 91.38590708705357,
+                        "top": 110.88741734822592
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 1831.101759011405
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1831.101759011405
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a433c8d3eb0e346db068783de1cc4fbd": {
+            "asset": {
+                "format": "jpg",
+                "id": "a433c8d3eb0e346db068783de1cc4fbd",
+                "name": "WIL_HS_APPS_2019_3_2-38.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-38.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "T_RVDbqrB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1711.7225238618398,
+                        "width": 1199.6086404157365,
+                        "left": 82.88672795758929,
+                        "top": 110.88741734822592
+                    },
+                    "points": [
+                        {
+                            "x": 82.88672795758929,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1282.4953683733258,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1282.4953683733258,
+                            "y": 1822.6099412100657
+                        },
+                        {
+                            "x": 82.88672795758929,
+                            "y": 1822.6099412100657
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a01a7c6685355f861c015533369acb55": {
+            "asset": {
+                "format": "jpg",
+                "id": "a01a7c6685355f861c015533369acb55",
+                "name": "WIL_HS_APPS_2019_3_2-37.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-37.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "p3p52yK9l",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1720.214341663179,
+                        "width": 1155.8983212890626,
+                        "left": 99.88518017578124,
+                        "top": 116.95305513654436
+                    },
+                    "points": [
+                        {
+                            "x": 99.88518017578124,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1837.1673967997235
+                        },
+                        {
+                            "x": 99.88518017578124,
+                            "y": 1837.1673967997235
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a4b074097f3078980a5495af8a4a2ff0": {
+            "asset": {
+                "format": "jpg",
+                "id": "a4b074097f3078980a5495af8a4a2ff0",
+                "name": "WIL_HS_APPS_2019_3_2-36.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-36.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "B4bhJXXlp",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1729.9193668183827,
+                        "width": 1177.7535278320313,
+                        "left": 79.244115234375,
+                        "top": 119.37930555797759
+                    },
+                    "points": [
+                        {
+                            "x": 79.244115234375,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 1849.2986723763604
+                        },
+                        {
+                            "x": 79.244115234375,
+                            "y": 1849.2986723763604
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c73681537fdc2cd7a7083e3ca5faa30e": {
+            "asset": {
+                "format": "jpg",
+                "id": "c73681537fdc2cd7a7083e3ca5faa30e",
+                "name": "WIL_HS_APPS_2019_3_2-35.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-35.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "ekBykMBW7",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1731.1325037638346,
+                        "width": 1166.8258775809152,
+                        "left": 85.31501116071428,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 85.31501116071428,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 1843.2330345880418
+                        },
+                        {
+                            "x": 85.31501116071428,
+                            "y": 1843.2330345880418
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "43bfa1dc016a39ec2a43cece961d893c": {
+            "asset": {
+                "format": "jpg",
+                "id": "43bfa1dc016a39ec2a43cece961d893c",
+                "name": "WIL_HS_APPS_2019_3_2-34.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-34.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "QhXjleR5B",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1665.623718915667,
+                        "width": 1163.1832648577008,
+                        "left": 101.09941573660714,
+                        "top": 119.37930555797759
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 1785.0030244736445
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1785.0030244736445
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "345b893ec3e61f98b42b985280dda52f": {
+            "asset": {
+                "format": "jpg",
+                "id": "345b893ec3e61f98b42b985280dda52f",
+                "name": "WIL_HS_APPS_2019_3_2-33.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-33.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "RM4bSzJ-H",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1719.001322065081,
+                        "width": 1169.25416078404,
+                        "left": 88.95762388392856,
+                        "top": 120.5924425034296
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 120.5924425034296
+                        },
+                        {
+                            "x": 1258.2117846679687,
+                            "y": 120.5924425034296
+                        },
+                        {
+                            "x": 1258.2117846679687,
+                            "y": 1839.5937645685106
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1839.5937645685106
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a84cd26944e466168319f7e3adda101c": {
+            "asset": {
+                "format": "jpg",
+                "id": "a84cd26944e466168319f7e3adda101c",
+                "name": "WIL_HS_APPS_2019_3_2-32.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-32.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Vvc4IcnGM",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1714.148868161156,
+                        "width": 1155.898227329799,
+                        "left": 95.02851981026785,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 95.02851981026785,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 1826.2493989853633
+                        },
+                        {
+                            "x": 95.02851981026785,
+                            "y": 1826.2493989853633
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "b9f57357c386f3b8479baa7fd7c051df": {
+            "asset": {
+                "format": "jpg",
+                "id": "b9f57357c386f3b8479baa7fd7c051df",
+                "name": "WIL_HS_APPS_2019_3_2-31.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-31.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "sVjwxyFTy",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1714.1487977527438,
+                        "width": 1176.5393862304686,
+                        "left": 91.38590708705357,
+                        "top": 126.65805682227726
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 126.65805682227726
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 126.65805682227726
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 1840.8068545750211
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1840.8068545750211
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "d09c54756bf12f2e83a1343b341893b8": {
+            "asset": {
+                "format": "jpg",
+                "id": "d09c54756bf12f2e83a1343b341893b8",
+                "name": "WIL_HS_APPS_2019_3_2-30.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-30.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "srznHy83G",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 1702.0175456455777,
+                        "width": 1159.5408400530134,
+                        "left": 95.02851981026785,
+                        "top": 119.37930555797759
+                    },
+                    "points": [
+                        {
+                            "x": 95.02851981026785,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1254.5693598632813,
+                            "y": 1821.3968512035553
+                        },
+                        {
+                            "x": 95.02851981026785,
+                            "y": 1821.3968512035553
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "599e581a01684f1e7c560a44a0a38ff7": {
+            "asset": {
+                "format": "jpg",
+                "id": "599e581a01684f1e7c560a44a0a38ff7",
+                "name": "WIL_HS_APPS_2019_3_2-3.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-3.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "6XveNRsDJ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 44.88571493966239,
+                        "width": 429.81928124999996,
+                        "left": 92.60014264787947,
+                        "top": 119.37930555797759
+                    },
+                    "points": [
+                        {
+                            "x": 92.60014264787947,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 522.4194238978795,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 522.4194238978795,
+                            "y": 164.26502049764
+                        },
+                        {
+                            "x": 92.60014264787947,
+                            "y": 164.26502049764
+                        }
+                    ]
+                },
+                {
+                    "id": "FboMggmNB",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 84.91883515857515,
+                        "width": 1000.9562073800223,
+                        "left": 96.984,
+                        "top": 1051.061039842878
+                    },
+                    "points": [
+                        {
+                            "x": 96.984,
+                            "y": 1051.061039842878
+                        },
+                        {
+                            "x": 1097.9402073800222,
+                            "y": 1051.061039842878
+                        },
+                        {
+                            "x": 1097.9402073800222,
+                            "y": 1135.9798750014531
+                        },
+                        {
+                            "x": 96.984,
+                            "y": 1135.9798750014531
+                        }
+                    ]
+                },
+                {
+                    "id": "huDjLBd4s",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 673.2857006254651,
+                        "width": 1180.1818110351562,
+                        "left": 84.10086955915179,
+                        "top": 1159.0293361482168
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1159.0293361482168
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 1159.0293361482168
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 1832.3150367736816
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1832.3150367736816
+                        }
+                    ]
+                },
+                {
+                    "id": "sgwpSoC_-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 815.2215028308688,
+                        "width": 1193.5377444893973,
+                        "left": 84.10086955915179,
+                        "top": 181.24879691714332
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 181.24879691714332
+                        },
+                        {
+                            "x": 1277.638614048549,
+                            "y": 181.24879691714332
+                        },
+                        {
+                            "x": 1277.638614048549,
+                            "y": 996.470299748012
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 996.470299748012
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a9e1a68ecd59422be8383df7ba09b421": {
+            "asset": {
+                "format": "jpg",
+                "id": "a9e1a68ecd59422be8383df7ba09b421",
+                "name": "WIL_HS_APPS_2019_3_2-29.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-29.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "mk6u5g6u9",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "reference"
+                    ],
+                    "boundingBox": {
+                        "height": 960.79676281157,
+                        "width": 1169.2542547433036,
+                        "left": 86.52924672154018,
+                        "top": 109.6742804027739
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 109.6742804027739
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 109.6742804027739
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1070.4710432143438
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1070.4710432143438
+                        }
+                    ]
+                },
+                {
+                    "id": "I8_DsTdEJ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 52.16446620396206,
+                        "width": 229.06366406249998,
+                        "left": 95.44457142857142,
+                        "top": 1385.8841143290203
+                    },
+                    "points": [
+                        {
+                            "x": 95.44457142857142,
+                            "y": 1385.8841143290203
+                        },
+                        {
+                            "x": 324.5082354910714,
+                            "y": 1385.8841143290203
+                        },
+                        {
+                            "x": 324.5082354910714,
+                            "y": 1438.0485805329822
+                        },
+                        {
+                            "x": 95.44457142857142,
+                            "y": 1438.0485805329822
+                        }
+                    ]
+                },
+                {
+                    "id": "hjKqbvsWH",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 82.49256126767114,
+                        "width": 1138.8996811523436,
+                        "left": 96.24266141183035,
+                        "top": 1441.6880383082798
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1441.6880383082798
+                        },
+                        {
+                            "x": 1235.142342564174,
+                            "y": 1441.6880383082798
+                        },
+                        {
+                            "x": 1235.142342564174,
+                            "y": 1524.180599575951
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1524.180599575951
+                        }
+                    ]
+                },
+                {
+                    "id": "e3lnRKb8W",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "appendice"
+                    ],
+                    "boundingBox": {
+                        "height": 300.85552164713545,
+                        "width": 1153.4699441266741,
+                        "left": 88.95762388392856,
+                        "top": 1530.2462373642695
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1530.2462373642695
+                        },
+                        {
+                            "x": 1242.4275680106027,
+                            "y": 1530.2462373642695
+                        },
+                        {
+                            "x": 1242.4275680106027,
+                            "y": 1831.101759011405
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1831.101759011405
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2600d026ffa551145dd20a2ac218b193": {
+            "asset": {
+                "format": "jpg",
+                "id": "2600d026ffa551145dd20a2ac218b193",
+                "name": "WIL_HS_APPS_2019_3_2-28.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-28.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "3sNGSL_xI",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "reference"
+                    ],
+                    "boundingBox": {
+                        "height": 1709.2962734404066,
+                        "width": 1158.3266044921875,
+                        "left": 92.60014264787947,
+                        "top": 119.37930555797759
+                    },
+                    "points": [
+                        {
+                            "x": 92.60014264787947,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 119.37930555797759
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 1828.675578998384
+                        },
+                        {
+                            "x": 92.60014264787947,
+                            "y": 1828.675578998384
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ec1a8b283cc1d07d1ef67d5b65421ced": {
+            "asset": {
+                "format": "jpg",
+                "id": "ec1a8b283cc1d07d1ef67d5b65421ced",
+                "name": "WIL_HS_APPS_2019_3_2-27.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-27.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "YqT1k-5xL",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 844.3365782964797,
+                        "width": 1171.682631905692,
+                        "left": 95.02851981026785,
+                        "top": 108.4611669267927
+                    },
+                    "points": [
+                        {
+                            "x": 95.02851981026785,
+                            "y": 108.4611669267927
+                        },
+                        {
+                            "x": 1266.7111517159597,
+                            "y": 108.4611669267927
+                        },
+                        {
+                            "x": 1266.7111517159597,
+                            "y": 952.7977452232725
+                        },
+                        {
+                            "x": 95.02851981026785,
+                            "y": 952.7977452232725
+                        }
+                    ]
+                },
+                {
+                    "id": "ZozumhemW",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 49.738192313058036,
+                        "width": 135.98808754185268,
+                        "left": 103.52769893973213,
+                        "top": 987.9783880687896
+                    },
+                    "points": [
+                        {
+                            "x": 103.52769893973213,
+                            "y": 987.9783880687896
+                        },
+                        {
+                            "x": 239.51578648158483,
+                            "y": 987.9783880687896
+                        },
+                        {
+                            "x": 239.51578648158483,
+                            "y": 1037.7165803818477
+                        },
+                        {
+                            "x": 103.52769893973213,
+                            "y": 1037.7165803818477
+                        }
+                    ]
+                },
+                {
+                    "id": "aazrAgRS2",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 41.24628063383557,
+                        "width": 228.26557407924105,
+                        "left": 102.31355733816964,
+                        "top": 1145.6849705650693
+                    },
+                    "points": [
+                        {
+                            "x": 102.31355733816964,
+                            "y": 1145.6849705650693
+                        },
+                        {
+                            "x": 330.5791314174107,
+                            "y": 1145.6849705650693
+                        },
+                        {
+                            "x": 330.5791314174107,
+                            "y": 1186.9312511989049
+                        },
+                        {
+                            "x": 102.31355733816964,
+                            "y": 1186.9312511989049
+                        }
+                    ]
+                },
+                {
+                    "id": "jq4aQ0KO4",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "contact_info"
+                    ],
+                    "boundingBox": {
+                        "height": 63.08255789620536,
+                        "width": 744.2917278180803,
+                        "left": 99.88518017578124,
+                        "top": 1041.3560381571453
+                    },
+                    "points": [
+                        {
+                            "x": 99.88518017578124,
+                            "y": 1041.3560381571453
+                        },
+                        {
+                            "x": 844.1769079938616,
+                            "y": 1041.3560381571453
+                        },
+                        {
+                            "x": 844.1769079938616,
+                            "y": 1104.4385960533507
+                        },
+                        {
+                            "x": 99.88518017578124,
+                            "y": 1104.4385960533507
+                        }
+                    ]
+                },
+                {
+                    "id": "Zh-o_4E1y",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "reference"
+                    ],
+                    "boundingBox": {
+                        "height": 640.5311439150856,
+                        "width": 1169.25416078404,
+                        "left": 96.24266141183035,
+                        "top": 1194.210072871617
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1194.210072871617
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 1194.210072871617
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 1834.7412167867026
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1834.7412167867026
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "8f227a2c09d8543ea162cbf3cf44aeae": {
+            "asset": {
+                "format": "jpg",
+                "id": "8f227a2c09d8543ea162cbf3cf44aeae",
+                "name": "WIL_HS_APPS_2019_3_2-26.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-26.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "vHuKI3Dyv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 954.7311015537807,
+                        "width": 1174.1759349190847,
+                        "left": 80.45835079520089,
+                        "top": 113.31366776965913
+                    },
+                    "points": [
+                        {
+                            "x": 80.45835079520089,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1254.6342857142856,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1254.6342857142856,
+                            "y": 1068.0447693234398
+                        },
+                        {
+                            "x": 80.45835079520089,
+                            "y": 1068.0447693234398
+                        }
+                    ]
+                },
+                {
+                    "id": "xW9H21KbL",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 647.8099655877977,
+                        "width": 1164.3975004185268,
+                        "left": 80.45835079520089,
+                        "top": 1199.0625267755418
+                    },
+                    "points": [
+                        {
+                            "x": 80.45835079520089,
+                            "y": 1199.0625267755418
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 1199.0625267755418
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 1846.8724923633395
+                        },
+                        {
+                            "x": 80.45835079520089,
+                            "y": 1846.8724923633395
+                        }
+                    ]
+                },
+                {
+                    "id": "lcrs5JvTY",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 55.220437731061665,
+                        "width": 374.3235577566964,
+                        "left": 82.88672795758929,
+                        "top": 1121.4224194117955
+                    },
+                    "points": [
+                        {
+                            "x": 82.88672795758929,
+                            "y": 1121.4224194117955
+                        },
+                        {
+                            "x": 457.2102857142857,
+                            "y": 1121.4224194117955
+                        },
+                        {
+                            "x": 457.2102857142857,
+                            "y": 1176.642857142857
+                        },
+                        {
+                            "x": 82.88672795758929,
+                            "y": 1176.642857142857
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "ee23f0edd12421fc90df7cd8ec235b91": {
+            "asset": {
+                "format": "jpg",
+                "id": "ee23f0edd12421fc90df7cd8ec235b91",
+                "name": "WIL_HS_APPS_2019_3_2-25.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-25.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "9JL_CPiz8",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1717.7881381806874,
+                        "width": 1171.682631905692,
+                        "left": 84.10086955915179,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1829.8886690048946
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1829.8886690048946
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2fb3ba9d10121a75f5510bd44d54b775": {
+            "asset": {
+                "format": "jpg",
+                "id": "2fb3ba9d10121a75f5510bd44d54b775",
+                "name": "WIL_HS_APPS_2019_3_2-24.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-24.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "8Q74BKtdw",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1728.7062298729306,
+                        "width": 1155.898227329799,
+                        "left": 96.24266141183035,
+                        "top": 120.5924425034296
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 120.5924425034296
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 120.5924425034296
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 1849.2986723763604
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1849.2986723763604
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "7b0dc77abef7a404d5113d5eaec21083": {
+            "asset": {
+                "format": "jpg",
+                "id": "7b0dc77abef7a404d5113d5eaec21083",
+                "name": "WIL_HS_APPS_2019_3_2-23.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-23.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "QgYuyWB07",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 747.2863502139137,
+                        "width": 1180.1818110351562,
+                        "left": 84.10086955915179,
+                        "top": 1089.8810465858096
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1089.8810465858096
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 1089.8810465858096
+                        },
+                        {
+                            "x": 1264.282680594308,
+                            "y": 1837.1673967997235
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1837.1673967997235
+                        }
+                    ]
+                },
+                {
+                    "id": "o2BFVOGVQ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 816.4346632457915,
+                        "width": 1174.110915108817,
+                        "left": 91.38590708705357,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 928.5351940699986
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 928.5351940699986
+                        }
+                    ]
+                },
+                {
+                    "id": "4Bbgg015Q",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 104.32893240792411,
+                        "width": 989.5556601562499,
+                        "left": 86.52924672154018,
+                        "top": 968.5683846973238
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 968.5683846973238
+                        },
+                        {
+                            "x": 1076.0849068777902,
+                            "y": 968.5683846973238
+                        },
+                        {
+                            "x": 1076.0849068777902,
+                            "y": 1072.897317105248
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1072.897317105248
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "dca5da8ede331ce47f92f3cfc99a9711": {
+            "asset": {
+                "format": "jpg",
+                "id": "dca5da8ede331ce47f92f3cfc99a9711",
+                "name": "WIL_HS_APPS_2019_3_2-22.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-22.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "G3hLckQw9",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 447.6439185732887,
+                        "width": 1175.3250567103794,
+                        "left": 90.17176548549106,
+                        "top": 1411.3598493666877
+                    },
+                    "points": [
+                        {
+                            "x": 90.17176548549106,
+                            "y": 1411.3598493666877
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 1411.3598493666877
+                        },
+                        {
+                            "x": 1265.4968221958704,
+                            "y": 1859.0037679399763
+                        },
+                        {
+                            "x": 90.17176548549106,
+                            "y": 1859.0037679399763
+                        }
+                    ]
+                },
+                {
+                    "id": "CoFb9IuMM",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 42.45946451822917,
+                        "width": 570.6639351981026,
+                        "left": 101.09941573660714,
+                        "top": 109.6742804027739
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 109.6742804027739
+                        },
+                        {
+                            "x": 671.7633509347098,
+                            "y": 109.6742804027739
+                        },
+                        {
+                            "x": 671.7633509347098,
+                            "y": 152.13374492100309
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 152.13374492100309
+                        }
+                    ]
+                },
+                {
+                    "id": "tLXAruj2h",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "table"
+                    ],
+                    "boundingBox": {
+                        "height": 1293.193586876279,
+                        "width": 1171.6825379464285,
+                        "left": 87.74338832310268,
+                        "top": 102.39552913847425
+                    },
+                    "points": [
+                        {
+                            "x": 87.74338832310268,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 1395.5891160147532
+                        },
+                        {
+                            "x": 87.74338832310268,
+                            "y": 1395.5891160147532
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "9502de8946e6b79ef8948df6f66fdff9": {
+            "asset": {
+                "format": "jpg",
+                "id": "9502de8946e6b79ef8948df6f66fdff9",
+                "name": "WIL_HS_APPS_2019_3_2-21.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-21.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "PEOp00P3u",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1532.1797579810734,
+                        "width": 1149.8273314034598,
+                        "left": 96.24266141183035,
+                        "top": 110.88741734822592
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1246.06999281529,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1246.06999281529,
+                            "y": 1643.0671753292993
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1643.0671753292993
+                        }
+                    ]
+                },
+                {
+                    "id": "W7IhGBVke",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "note"
+                    ],
+                    "boundingBox": {
+                        "height": 138.296579124814,
+                        "width": 1148.6131898018973,
+                        "left": 96.24266141183035,
+                        "top": 1689.1659098670598
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1689.1659098670598
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 1689.1659098670598
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 1827.4624889918737
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1827.4624889918737
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2f9ff3be2df5b5e01a1e92b29be0296a": {
+            "asset": {
+                "format": "jpg",
+                "id": "2f9ff3be2df5b5e01a1e92b29be0296a",
+                "name": "WIL_HS_APPS_2019_3_2-20.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-20.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "EVGscXS2s",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 106.75530017671132,
+                        "width": 1148.6132837611606,
+                        "left": 93.81428424944195,
+                        "top": 1744.9697399684362
+                    },
+                    "points": [
+                        {
+                            "x": 93.81428424944195,
+                            "y": 1744.9697399684362
+                        },
+                        {
+                            "x": 1242.4275680106027,
+                            "y": 1744.9697399684362
+                        },
+                        {
+                            "x": 1242.4275680106027,
+                            "y": 1851.7250401451474
+                        },
+                        {
+                            "x": 93.81428424944195,
+                            "y": 1851.7250401451474
+                        }
+                    ]
+                },
+                {
+                    "id": "m0RkQE1qu",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 50.75714285714286,
+                        "width": 718.7938145926339,
+                        "left": 92.60014264787947,
+                        "top": 1661.1428571428573
+                    },
+                    "points": [
+                        {
+                            "x": 92.60014264787947,
+                            "y": 1661.1428571428573
+                        },
+                        {
+                            "x": 811.3939572405134,
+                            "y": 1661.1428571428573
+                        },
+                        {
+                            "x": 811.3939572405134,
+                            "y": 1711.9
+                        },
+                        {
+                            "x": 92.60014264787947,
+                            "y": 1711.9
+                        }
+                    ]
+                },
+                {
+                    "id": "JKyNmWggC",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 31.54127894810268,
+                        "width": 722.4364273158482,
+                        "left": 104.74193450055803,
+                        "top": 681.0572286333357
+                    },
+                    "points": [
+                        {
+                            "x": 104.74193450055803,
+                            "y": 681.0572286333357
+                        },
+                        {
+                            "x": 827.1783618164062,
+                            "y": 681.0572286333357
+                        },
+                        {
+                            "x": 827.1783618164062,
+                            "y": 712.5985075814384
+                        },
+                        {
+                            "x": 104.74193450055803,
+                            "y": 712.5985075814384
+                        }
+                    ]
+                },
+                {
+                    "id": "g12xbjv0H",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 53.377603149414064,
+                        "width": 528.1676637137276,
+                        "left": 95.02851981026785,
+                        "top": 579.154523177374
+                    },
+                    "points": [
+                        {
+                            "x": 95.02851981026785,
+                            "y": 579.154523177374
+                        },
+                        {
+                            "x": 623.1961835239955,
+                            "y": 579.154523177374
+                        },
+                        {
+                            "x": 623.1961835239955,
+                            "y": 632.5321263267881
+                        },
+                        {
+                            "x": 95.02851981026785,
+                            "y": 632.5321263267881
+                        }
+                    ]
+                },
+                {
+                    "id": "33T0spZt_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "table"
+                    ],
+                    "boundingBox": {
+                        "height": 953.5180350167411,
+                        "width": 1156.1108571428572,
+                        "left": 90.82628571428572,
+                        "top": 673.7784069606237
+                    },
+                    "points": [
+                        {
+                            "x": 90.82628571428572,
+                            "y": 673.7784069606237
+                        },
+                        {
+                            "x": 1246.9371428571428,
+                            "y": 673.7784069606237
+                        },
+                        {
+                            "x": 1246.9371428571428,
+                            "y": 1627.2964419773648
+                        },
+                        {
+                            "x": 90.82628571428572,
+                            "y": 1627.2964419773648
+                        }
+                    ]
+                },
+                {
+                    "id": "tvm3wQcDC",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 533.7759610857282,
+                        "width": 1154.354852469308,
+                        "left": 89.28685714285714,
+                        "top": 114.52680471511115
+                    },
+                    "points": [
+                        {
+                            "x": 89.28685714285714,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 114.52680471511115
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 648.3027658008393
+                        },
+                        {
+                            "x": 89.28685714285714,
+                            "y": 648.3027658008393
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c6faa7cbf12b6d073d52d9298db53db0": {
+            "asset": {
+                "format": "jpg",
+                "id": "c6faa7cbf12b6d073d52d9298db53db0",
+                "name": "WIL_HS_APPS_2019_3_2-2.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-2.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "1wWzQ5Ypv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1710.509480794271,
+                        "width": 1164.39759437779,
+                        "left": 91.38590708705357,
+                        "top": 115.73991819109236
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 115.73991819109236
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1826.2493989853633
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1826.2493989853633
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "bc8876da18f47718567b97128b1d9cfd": {
+            "asset": {
+                "format": "jpg",
+                "id": "bc8876da18f47718567b97128b1d9cfd",
+                "name": "WIL_HS_APPS_2019_3_2-19.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-19.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "hwyu5DZ_u",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 918.3372748238701,
+                        "width": 1189.8952257254464,
+                        "left": 69.53070054408482,
+                        "top": 107.2480299813407
+                    },
+                    "points": [
+                        {
+                            "x": 69.53070054408482,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 1025.5853048052106
+                        },
+                        {
+                            "x": 69.53070054408482,
+                            "y": 1025.5853048052106
+                        }
+                    ]
+                },
+                {
+                    "id": "reiwmi8Oc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 52.16437232607887,
+                        "width": 603.4468859514509,
+                        "left": 91.38590708705357,
+                        "top": 1772.8717488970076
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1772.8717488970076
+                        },
+                        {
+                            "x": 694.8327930385044,
+                            "y": 1772.8717488970076
+                        },
+                        {
+                            "x": 694.8327930385044,
+                            "y": 1825.0361212230864
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 1825.0361212230864
+                        }
+                    ]
+                },
+                {
+                    "id": "qtlHINFc_",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 807.9428219749815,
+                        "width": 1180.1819049944197,
+                        "left": 75.6015964704241,
+                        "top": 1043.782218170166
+                    },
+                    "points": [
+                        {
+                            "x": 75.6015964704241,
+                            "y": 1043.782218170166
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1043.782218170166
+                        },
+                        {
+                            "x": 1255.7835014648438,
+                            "y": 1851.7250401451474
+                        },
+                        {
+                            "x": 75.6015964704241,
+                            "y": 1851.7250401451474
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "435d50137cc4a1dc9e91929bf200a06c": {
+            "asset": {
+                "format": "jpg",
+                "id": "435d50137cc4a1dc9e91929bf200a06c",
+                "name": "WIL_HS_APPS_2019_3_2-18.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-18.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "bJpasHFv2",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1139.1265325637091,
+                        "width": 1165.6116420200892,
+                        "left": 86.52924672154018,
+                        "top": 693.1885042099726
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 693.1885042099726
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 693.1885042099726
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 1832.3150367736816
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1832.3150367736816
+                        }
+                    ]
+                },
+                {
+                    "id": "aWZRxhZ6I",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 36.39377979096913,
+                        "width": 825.6415641043526,
+                        "left": 88.95762388392856,
+                        "top": 633.7452632722401
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 633.7452632722401
+                        },
+                        {
+                            "x": 914.5991879882812,
+                            "y": 633.7452632722401
+                        },
+                        {
+                            "x": 914.5991879882812,
+                            "y": 670.1390430632092
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 670.1390430632092
+                        }
+                    ]
+                },
+                {
+                    "id": "qBHxweLvT",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 570.1698112851097,
+                        "width": 1181.3960465959822,
+                        "left": 75.6015964704241,
+                        "top": 110.88741734822592
+                    },
+                    "points": [
+                        {
+                            "x": 75.6015964704241,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 110.88741734822592
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 681.0572286333357
+                        },
+                        {
+                            "x": 75.6015964704241,
+                            "y": 681.0572286333357
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "a53be90a34e79ccfbf614da62eaccadb": {
+            "asset": {
+                "format": "jpg",
+                "id": "a53be90a34e79ccfbf614da62eaccadb",
+                "name": "WIL_HS_APPS_2019_3_2-17.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-17.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "eppcQN-0O",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 379.70881289527534,
+                        "width": 1166.8258775809152,
+                        "left": 90.17176548549106,
+                        "top": 1447.7536760965984
+                    },
+                    "points": [
+                        {
+                            "x": 90.17176548549106,
+                            "y": 1447.7536760965984
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 1447.7536760965984
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 1827.4624889918737
+                        },
+                        {
+                            "x": 90.17176548549106,
+                            "y": 1827.4624889918737
+                        }
+                    ]
+                },
+                {
+                    "id": "ZJeEWfgLS",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 37.60696367536273,
+                        "width": 968.9146891741071,
+                        "left": 105.95607610212053,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 105.95607610212053,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1074.8707652762275,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1074.8707652762275,
+                            "y": 149.70749449956986
+                        },
+                        {
+                            "x": 105.95607610212053,
+                            "y": 149.70749449956986
+                        }
+                    ]
+                },
+                {
+                    "id": "juDYfKDVk",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "table"
+                    ],
+                    "boundingBox": {
+                        "height": 1317.4561849684942,
+                        "width": 1166.8258775809152,
+                        "left": 85.31501116071428,
+                        "top": 107.2480299813407
+                    },
+                    "points": [
+                        {
+                            "x": 85.31501116071428,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 107.2480299813407
+                        },
+                        {
+                            "x": 1252.1408887416294,
+                            "y": 1424.704214949835
+                        },
+                        {
+                            "x": 85.31501116071428,
+                            "y": 1424.704214949835
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6b5ad61f1a9b7648cc14c01671d50e65": {
+            "asset": {
+                "format": "jpg",
+                "id": "6b5ad61f1a9b7648cc14c01671d50e65",
+                "name": "WIL_HS_APPS_2019_3_2-16.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-16.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "6fsqgCs_f",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1170.6678115118118,
+                        "width": 1183.8244237583706,
+                        "left": 84.10086955915179,
+                        "top": 658.0077674865723
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 658.0077674865723
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 658.0077674865723
+                        },
+                        {
+                            "x": 1267.9252933175223,
+                            "y": 1828.675578998384
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1828.675578998384
+                        }
+                    ]
+                },
+                {
+                    "id": "o0-kcAMBa",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 53.377603149414064,
+                        "width": 718.7939085518973,
+                        "left": 84.10086955915179,
+                        "top": 574.3020223345076
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 574.3020223345076
+                        },
+                        {
+                            "x": 802.894778111049,
+                            "y": 574.3020223345076
+                        },
+                        {
+                            "x": 802.894778111049,
+                            "y": 627.6796254839217
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 627.6796254839217
+                        }
+                    ]
+                },
+                {
+                    "id": "QL5jSBIrm",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 518.0053216116769,
+                        "width": 1202.0371115373885,
+                        "left": 71.95907770647321,
+                        "top": 113.31366776965913
+                    },
+                    "points": [
+                        {
+                            "x": 71.95907770647321,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1273.9961892438616,
+                            "y": 113.31366776965913
+                        },
+                        {
+                            "x": 1273.9961892438616,
+                            "y": 631.3189893813361
+                        },
+                        {
+                            "x": 71.95907770647321,
+                            "y": 631.3189893813361
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "cc62128ea5b0cfee0de87d88e9e2cb76": {
+            "asset": {
+                "format": "jpg",
+                "id": "cc62128ea5b0cfee0de87d88e9e2cb76",
+                "name": "WIL_HS_APPS_2019_3_2-15.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-15.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "VFIovNIP6",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1068.7650356474378,
+                        "width": 1194.7520740094865,
+                        "left": 84.10086955915179,
+                        "top": 220.06887406848728
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 220.06887406848728
+                        },
+                        {
+                            "x": 1278.8529435686382,
+                            "y": 220.06887406848728
+                        },
+                        {
+                            "x": 1278.8529435686382,
+                            "y": 1288.833909715925
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 1288.833909715925
+                        }
+                    ]
+                },
+                {
+                    "id": "htzwB7of-",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 71.57449304489863,
+                        "width": 1124.3296060965401,
+                        "left": 91.38590708705357,
+                        "top": 116.95305513654436
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1215.7155131835937,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1215.7155131835937,
+                            "y": 188.527548181443
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 188.527548181443
+                        }
+                    ]
+                },
+                {
+                    "id": "EVKmhc05I",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 65.50892566499256,
+                        "width": 925.2041821289063,
+                        "left": 101.09941573660714,
+                        "top": 1763.1666533333917
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1763.1666533333917
+                        },
+                        {
+                            "x": 1026.3035978655134,
+                            "y": 1763.1666533333917
+                        },
+                        {
+                            "x": 1026.3035978655134,
+                            "y": 1828.675578998384
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1828.675578998384
+                        }
+                    ]
+                },
+                {
+                    "id": "yYjiicbn7",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 539.8416692824591,
+                        "width": 1182.6101881975446,
+                        "left": 92.60014264787947,
+                        "top": 1310.670280856178
+                    },
+                    "points": [
+                        {
+                            "x": 92.60014264787947,
+                            "y": 1310.670280856178
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 1310.670280856178
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 1850.511950138637
+                        },
+                        {
+                            "x": 92.60014264787947,
+                            "y": 1850.511950138637
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5a0360c850f91e346189bcc4a123ff24": {
+            "asset": {
+                "format": "jpg",
+                "id": "5a0360c850f91e346189bcc4a123ff24",
+                "name": "WIL_HS_APPS_2019_3_2-14.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-14.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "SvXfdilIp",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1209.4878182547434,
+                        "width": 1157.1123689313615,
+                        "left": 96.24266141183035,
+                        "top": 614.3352129618327
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 614.3352129618327
+                        },
+                        {
+                            "x": 1253.3550303431919,
+                            "y": 614.3352129618327
+                        },
+                        {
+                            "x": 1253.3550303431919,
+                            "y": 1823.823031216576
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1823.823031216576
+                        }
+                    ]
+                },
+                {
+                    "id": "SqKKIL_0f",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 72.78760652087983,
+                        "width": 452.8887233537946,
+                        "left": 93.81428424944195,
+                        "top": 486.9568663460868
+                    },
+                    "points": [
+                        {
+                            "x": 93.81428424944195,
+                            "y": 486.9568663460868
+                        },
+                        {
+                            "x": 546.7030076032366,
+                            "y": 486.9568663460868
+                        },
+                        {
+                            "x": 546.7030076032366,
+                            "y": 559.7444728669666
+                        },
+                        {
+                            "x": 93.81428424944195,
+                            "y": 559.7444728669666
+                        }
+                    ]
+                },
+                {
+                    "id": "xKmTOs_wY",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 465.84085540771486,
+                        "width": 1160.7548876953124,
+                        "left": 86.52924672154018,
+                        "top": 108.4611669267927
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 108.4611669267927
+                        },
+                        {
+                            "x": 1247.2841344168526,
+                            "y": 108.4611669267927
+                        },
+                        {
+                            "x": 1247.2841344168526,
+                            "y": 574.3020223345076
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 574.3020223345076
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5cd3807075641408a9d0d9b12f77fe28": {
+            "asset": {
+                "format": "jpg",
+                "id": "5cd3807075641408a9d0d9b12f77fe28",
+                "name": "WIL_HS_APPS_2019_3_2-13.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-13.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Koqu2bjwl",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 280.2323343912761,
+                        "width": 1186.2527069614955,
+                        "left": 88.95762388392856,
+                        "top": 830.271899450393
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 830.271899450393
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 830.271899450393
+                        },
+                        {
+                            "x": 1275.210330845424,
+                            "y": 1110.504233841669
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1110.504233841669
+                        }
+                    ]
+                },
+                {
+                    "id": "CyDPDcnJf",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 38.82000674293155,
+                        "width": 805.0004991629464,
+                        "left": 98.67103857421874,
+                        "top": 775.6811593555269
+                    },
+                    "points": [
+                        {
+                            "x": 98.67103857421874,
+                            "y": 775.6811593555269
+                        },
+                        {
+                            "x": 903.6715377371652,
+                            "y": 775.6811593555269
+                        },
+                        {
+                            "x": 903.6715377371652,
+                            "y": 814.5011660984585
+                        },
+                        {
+                            "x": 98.67103857421874,
+                            "y": 814.5011660984585
+                        }
+                    ]
+                },
+                {
+                    "id": "Krb9UUhBZ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "caption"
+                    ],
+                    "boundingBox": {
+                        "height": 42.45946451822917,
+                        "width": 1024.7669880719866,
+                        "left": 103.52769893973213,
+                        "top": 1780.1504766918365
+                    },
+                    "points": [
+                        {
+                            "x": 103.52769893973213,
+                            "y": 1780.1504766918365
+                        },
+                        {
+                            "x": 1128.2946870117187,
+                            "y": 1780.1504766918365
+                        },
+                        {
+                            "x": 1128.2946870117187,
+                            "y": 1822.6099412100657
+                        },
+                        {
+                            "x": 103.52769893973213,
+                            "y": 1822.6099412100657
+                        }
+                    ]
+                },
+                {
+                    "id": "xY3XBSPP5",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 701.1875687372117,
+                        "width": 1178.9676694335938,
+                        "left": 84.10086955915179,
+                        "top": 116.95305513654436
+                    },
+                    "points": [
+                        {
+                            "x": 84.10086955915179,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 116.95305513654436
+                        },
+                        {
+                            "x": 1263.0685389927455,
+                            "y": 818.1406238737561
+                        },
+                        {
+                            "x": 84.10086955915179,
+                            "y": 818.1406238737561
+                        }
+                    ]
+                },
+                {
+                    "id": "WqzyR_Ttr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "figure"
+                    ],
+                    "boundingBox": {
+                        "height": 725.4500729515439,
+                        "width": 1197.1803572126116,
+                        "left": 82.88672795758929,
+                        "top": 1122.635509418306
+                    },
+                    "points": [
+                        {
+                            "x": 82.88672795758929,
+                            "y": 1122.635509418306
+                        },
+                        {
+                            "x": 1280.067085170201,
+                            "y": 1122.635509418306
+                        },
+                        {
+                            "x": 1280.067085170201,
+                            "y": 1848.0855823698498
+                        },
+                        {
+                            "x": 82.88672795758929,
+                            "y": 1848.0855823698498
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "1a29ee7a6b06258d8a42cb36a8c72e9f": {
+            "asset": {
+                "format": "jpg",
+                "id": "1a29ee7a6b06258d8a42cb36a8c72e9f",
+                "name": "WIL_HS_APPS_2019_3_2-12.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-12.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "Q41psUAXc",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1140.3396460396903,
+                        "width": 1160.7291428571427,
+                        "left": 90.82628571428572,
+                        "top": 118.16616861252558
+                    },
+                    "points": [
+                        {
+                            "x": 90.82628571428572,
+                            "y": 118.16616861252558
+                        },
+                        {
+                            "x": 1251.5554285714286,
+                            "y": 118.16616861252558
+                        },
+                        {
+                            "x": 1251.5554285714286,
+                            "y": 1258.5058146522158
+                        },
+                        {
+                            "x": 90.82628571428572,
+                            "y": 1258.5058146522158
+                        }
+                    ]
+                },
+                {
+                    "id": "pF8e-0Zdw",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 342.22155525570827,
+                        "width": 1160.7549816545759,
+                        "left": 90.17176548549105,
+                        "top": 1486.57368283953
+                    },
+                    "points": [
+                        {
+                            "x": 90.17176548549105,
+                            "y": 1486.57368283953
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 1486.57368283953
+                        },
+                        {
+                            "x": 1250.926747140067,
+                            "y": 1828.7952380952381
+                        },
+                        {
+                            "x": 90.17176548549105,
+                            "y": 1828.7952380952381
+                        }
+                    ]
+                },
+                {
+                    "id": "BZ6nd95_t",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "subheading"
+                    ],
+                    "boundingBox": {
+                        "height": 54.03325802031018,
+                        "width": 563.3789916294643,
+                        "left": 93.81428424944195,
+                        "top": 1404.0810276939756
+                    },
+                    "points": [
+                        {
+                            "x": 93.81428424944195,
+                            "y": 1404.0810276939756
+                        },
+                        {
+                            "x": 657.1932758789062,
+                            "y": 1404.0810276939756
+                        },
+                        {
+                            "x": 657.1932758789062,
+                            "y": 1458.1142857142859
+                        },
+                        {
+                            "x": 93.81428424944195,
+                            "y": 1458.1142857142859
+                        }
+                    ]
+                },
+                {
+                    "id": "ZcFIxlhCw",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 101.9026585170201,
+                        "width": 1165.3474285714285,
+                        "left": 89.28685714285714,
+                        "top": 1283.9814558120001
+                    },
+                    "points": [
+                        {
+                            "x": 89.28685714285714,
+                            "y": 1283.9814558120001
+                        },
+                        {
+                            "x": 1254.6342857142856,
+                            "y": 1283.9814558120001
+                        },
+                        {
+                            "x": 1254.6342857142856,
+                            "y": 1385.8841143290203
+                        },
+                        {
+                            "x": 89.28685714285714,
+                            "y": 1385.8841143290203
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "5ac54e51d4f03b6d436edc44ef26a5f0": {
+            "asset": {
+                "format": "jpg",
+                "id": "5ac54e51d4f03b6d436edc44ef26a5f0",
+                "name": "WIL_HS_APPS_2019_3_2-11.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-11.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "eJN6cO8nC",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 1727.4932337443036,
+                        "width": 1189.8953196847099,
+                        "left": 79.244115234375,
+                        "top": 112.10053082420713
+                    },
+                    "points": [
+                        {
+                            "x": 79.244115234375,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1269.1394349190848,
+                            "y": 112.10053082420713
+                        },
+                        {
+                            "x": 1269.1394349190848,
+                            "y": 1839.5937645685106
+                        },
+                        {
+                            "x": 79.244115234375,
+                            "y": 1839.5937645685106
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "41c81d7fec03a62436798ad0d8e81c48": {
+            "asset": {
+                "format": "jpg",
+                "id": "41c81d7fec03a62436798ad0d8e81c48",
+                "name": "WIL_HS_APPS_2019_3_2-10.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-10.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "QF3KUxVqD",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 491.31654350644067,
+                        "width": 1161.9473247070312,
+                        "left": 86.52924672154016,
+                        "top": 102.39552913847425
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154016,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1248.4765714285713,
+                            "y": 102.39552913847425
+                        },
+                        {
+                            "x": 1248.4765714285713,
+                            "y": 593.7120726449149
+                        },
+                        {
+                            "x": 86.52924672154016,
+                            "y": 593.7120726449149
+                        }
+                    ]
+                },
+                {
+                    "id": "vFhk3fX2A",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 920.763666062128,
+                        "width": 1154.6840857282366,
+                        "left": 88.95762388392856,
+                        "top": 776.8942493620374
+                    },
+                    "points": [
+                        {
+                            "x": 88.95762388392856,
+                            "y": 776.8942493620374
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 776.8942493620374
+                        },
+                        {
+                            "x": 1243.6417096121652,
+                            "y": 1697.6579154241654
+                        },
+                        {
+                            "x": 88.95762388392856,
+                            "y": 1697.6579154241654
+                        }
+                    ]
+                },
+                {
+                    "id": "zbrPURUvs",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 131.01775745210193,
+                        "width": 1093.6458932059152,
+                        "left": 89.28685714285714,
+                        "top": 624.0402146475656
+                    },
+                    "points": [
+                        {
+                            "x": 89.28685714285714,
+                            "y": 624.0402146475656
+                        },
+                        {
+                            "x": 1182.9327503487723,
+                            "y": 624.0402146475656
+                        },
+                        {
+                            "x": 1182.9327503487723,
+                            "y": 755.0579720996675
+                        },
+                        {
+                            "x": 89.28685714285714,
+                            "y": 755.0579720996675
+                        }
+                    ]
+                },
+                {
+                    "id": "uMNkOc0cL",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "note"
+                    ],
+                    "boundingBox": {
+                        "height": 74.00074346633185,
+                        "width": 1154.683991768973,
+                        "left": 86.52924672154018,
+                        "top": 1749.8222877502442
+                    },
+                    "points": [
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1749.8222877502442
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1749.8222877502442
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1823.823031216576
+                        },
+                        {
+                            "x": 86.52924672154018,
+                            "y": 1823.823031216576
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c95a4f504bcc2b879bc56569c2e6f602": {
+            "asset": {
+                "format": "jpg",
+                "id": "c95a4f504bcc2b879bc56569c2e6f602",
+                "name": "WIL_HS_APPS_2019_3_2-1.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-1.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "qtnFhogeq",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "abstract"
+                    ],
+                    "boundingBox": {
+                        "height": 89.77140640985398,
+                        "width": 675.0834954659598,
+                        "left": 550.3455263671875,
+                        "top": 131.5105811346145
+                    },
+                    "points": [
+                        {
+                            "x": 550.3455263671875,
+                            "y": 131.5105811346145
+                        },
+                        {
+                            "x": 1225.4290218331473,
+                            "y": 131.5105811346145
+                        },
+                        {
+                            "x": 1225.4290218331473,
+                            "y": 221.28198754446848
+                        },
+                        {
+                            "x": 550.3455263671875,
+                            "y": 221.28198754446848
+                        }
+                    ]
+                },
+                {
+                    "id": "gebUPr6Pr",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "keywords"
+                    ],
+                    "boundingBox": {
+                        "height": 86.13201904296875,
+                        "width": 678.7260142299107,
+                        "left": 547.9171492047991,
+                        "top": 250.39703954060874
+                    },
+                    "points": [
+                        {
+                            "x": 547.9171492047991,
+                            "y": 250.39703954060874
+                        },
+                        {
+                            "x": 1226.6431634347098,
+                            "y": 250.39703954060874
+                        },
+                        {
+                            "x": 1226.6431634347098,
+                            "y": 336.52905858357747
+                        },
+                        {
+                            "x": 547.9171492047991,
+                            "y": 336.52905858357747
+                        }
+                    ]
+                },
+                {
+                    "id": "RgQcu5CPg",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "section_heading"
+                    ],
+                    "boundingBox": {
+                        "height": 47.31196536109561,
+                        "width": 467.4588923688616,
+                        "left": 105.95607610212053,
+                        "top": 400.82480036417644
+                    },
+                    "points": [
+                        {
+                            "x": 105.95607610212053,
+                            "y": 400.82480036417644
+                        },
+                        {
+                            "x": 573.4149684709821,
+                            "y": 400.82480036417644
+                        },
+                        {
+                            "x": 573.4149684709821,
+                            "y": 448.1367657252721
+                        },
+                        {
+                            "x": 105.95607610212053,
+                            "y": 448.1367657252721
+                        }
+                    ]
+                },
+                {
+                    "id": "doyu2M7eO",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "note"
+                    ],
+                    "boundingBox": {
+                        "height": 486.4641130719866,
+                        "width": 1155.898227329799,
+                        "left": 101.09941573660714,
+                        "top": 1345.8509237016951
+                    },
+                    "points": [
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1345.8509237016951
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 1345.8509237016951
+                        },
+                        {
+                            "x": 1256.9976430664062,
+                            "y": 1832.3150367736816
+                        },
+                        {
+                            "x": 101.09941573660714,
+                            "y": 1832.3150367736816
+                        }
+                    ]
+                },
+                {
+                    "id": "dtODpOVDT",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "core_text"
+                    ],
+                    "boundingBox": {
+                        "height": 835.8446431477865,
+                        "width": 1163.1832648577008,
+                        "left": 96.24266141183035,
+                        "top": 476.0387277149019
+                    },
+                    "points": [
+                        {
+                            "x": 96.24266141183035,
+                            "y": 476.0387277149019
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 476.0387277149019
+                        },
+                        {
+                            "x": 1259.4259262695311,
+                            "y": 1311.8833708626885
+                        },
+                        {
+                            "x": 96.24266141183035,
+                            "y": 1311.8833708626885
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "3c5ae3e08a1abc29d67884db9ae6502a": {
+            "asset": {
+                "format": "jpg",
+                "id": "3c5ae3e08a1abc29d67884db9ae6502a",
+                "name": "WIL_HS_APPS_2019_3_2-0.jpg",
+                "path": "file:C:/University%20of%20Sask/Mitacs%20project/Data7/WIL_HS_APPS_2019_3_2/WIL_HS_APPS_2019_3_2-0.jpg",
+                "size": {
+                    "width": 1347,
+                    "height": 1938
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "k9yhL42_9",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "title"
+                    ],
+                    "boundingBox": {
+                        "height": 251.11737627301898,
+                        "width": 1151.0415669642857,
+                        "left": 93.81428424944195,
+                        "top": 272.23331680297855
+                    },
+                    "points": [
+                        {
+                            "x": 93.81428424944195,
+                            "y": 272.23331680297855
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 272.23331680297855
+                        },
+                        {
+                            "x": 1244.8558512137276,
+                            "y": 523.3506930759975
+                        },
+                        {
+                            "x": 93.81428424944195,
+                            "y": 523.3506930759975
+                        }
+                    ]
+                },
+                {
+                    "id": "0e8qKbLFh",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "author_name"
+                    ],
+                    "boundingBox": {
+                        "height": 63.08260483514695,
+                        "width": 380.0379722377232,
+                        "left": 97.45680301339286,
+                        "top": 580.367660122826
+                    },
+                    "points": [
+                        {
+                            "x": 97.45680301339286,
+                            "y": 580.367660122826
+                        },
+                        {
+                            "x": 477.49477525111604,
+                            "y": 580.367660122826
+                        },
+                        {
+                            "x": 477.49477525111604,
+                            "y": 643.450264957973
+                        },
+                        {
+                            "x": 97.45680301339286,
+                            "y": 643.450264957973
+                        }
+                    ]
+                },
+                {
+                    "id": "dANhH86hv",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "affiliation"
+                    ],
+                    "boundingBox": {
+                        "height": 103.1158424014137,
+                        "width": 411.60668743024553,
+                        "left": 91.38590708705357,
+                        "top": 684.6965925307501
+                    },
+                    "points": [
+                        {
+                            "x": 91.38590708705357,
+                            "y": 684.6965925307501
+                        },
+                        {
+                            "x": 502.9925945172991,
+                            "y": 684.6965925307501
+                        },
+                        {
+                            "x": 502.9925945172991,
+                            "y": 787.8124349321638
+                        },
+                        {
+                            "x": 91.38590708705357,
+                            "y": 787.8124349321638
+                        }
+                    ]
+                },
+                {
+                    "id": "XB1zrJH1d",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "contact_info"
+                    ],
+                    "boundingBox": {
+                        "height": 228.24066216605053,
+                        "width": 423.093865094866,
+                        "left": 90.82628571428572,
+                        "top": 808.4355283101401
+                    },
+                    "points": [
+                        {
+                            "x": 90.82628571428572,
+                            "y": 808.4355283101401
+                        },
+                        {
+                            "x": 513.9201508091517,
+                            "y": 808.4355283101401
+                        },
+                        {
+                            "x": 513.9201508091517,
+                            "y": 1036.6761904761906
+                        },
+                        {
+                            "x": 90.82628571428572,
+                            "y": 1036.6761904761906
+                        }
+                    ]
+                },
+                {
+                    "id": "1znDnSxcx",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "abstract"
+                    ],
+                    "boundingBox": {
+                        "height": 969.2885806129093,
+                        "width": 671.4408827427455,
+                        "left": 550.3455263671875,
+                        "top": 701.680415889195
+                    },
+                    "points": [
+                        {
+                            "x": 550.3455263671875,
+                            "y": 701.680415889195
+                        },
+                        {
+                            "x": 1221.786409109933,
+                            "y": 701.680415889195
+                        },
+                        {
+                            "x": 1221.786409109933,
+                            "y": 1670.9689965021043
+                        },
+                        {
+                            "x": 550.3455263671875,
+                            "y": 1670.9689965021043
+                        }
+                    ]
+                },
+                {
+                    "id": "35Reeai4w",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "copyright"
+                    ],
+                    "boundingBox": {
+                        "height": 116.46020798456102,
+                        "width": 1138.8996811523436,
+                        "left": 102.31355733816964,
+                        "top": 1696.4446376618887
+                    },
+                    "points": [
+                        {
+                            "x": 102.31355733816964,
+                            "y": 1696.4446376618887
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1696.4446376618887
+                        },
+                        {
+                            "x": 1241.2132384905133,
+                            "y": 1812.9048456464495
+                        },
+                        {
+                            "x": 102.31355733816964,
+                            "y": 1812.9048456464495
+                        }
+                    ]
+                },
+                {
+                    "id": "dwFpGNAKY",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "doi"
+                    ],
+                    "boundingBox": {
+                        "height": 30.328188941592263,
+                        "width": 212.4812634626116,
+                        "left": 105.95607610212053,
+                        "top": 97.54300482613701
+                    },
+                    "points": [
+                        {
+                            "x": 105.95607610212053,
+                            "y": 97.54300482613701
+                        },
+                        {
+                            "x": 318.43733956473216,
+                            "y": 97.54300482613701
+                        },
+                        {
+                            "x": 318.43733956473216,
+                            "y": 127.87119376772927
+                        },
+                        {
+                            "x": 105.95607610212053,
+                            "y": 127.87119376772927
+                        }
+                    ]
+                },
+                {
+                    "id": "Y5rvsU7Ra",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "article_history"
+                    ],
+                    "boundingBox": {
+                        "height": 40.03319062732515,
+                        "width": 688.4394289202008,
+                        "left": 108.38445326450892,
+                        "top": 46.59167556762696
+                    },
+                    "points": [
+                        {
+                            "x": 108.38445326450892,
+                            "y": 46.59167556762696
+                        },
+                        {
+                            "x": 796.8238821847098,
+                            "y": 46.59167556762696
+                        },
+                        {
+                            "x": 796.8238821847098,
+                            "y": 86.6248661949521
+                        },
+                        {
+                            "x": 108.38445326450892,
+                            "y": 86.6248661949521
+                        }
+                    ]
+                },
+                {
+                    "id": "Ml9OinZWZ",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "date"
+                    ],
+                    "boundingBox": {
+                        "height": 35.17084434145973,
+                        "width": 48.045223702566965,
+                        "left": 1100.3684905831474,
+                        "top": 1827.4624889918737
+                    },
+                    "points": [
+                        {
+                            "x": 1100.3684905831474,
+                            "y": 1827.4624889918737
+                        },
+                        {
+                            "x": 1148.4137142857141,
+                            "y": 1827.4624889918737
+                        },
+                        {
+                            "x": 1148.4137142857141,
+                            "y": 1862.6333333333334
+                        },
+                        {
+                            "x": 1100.3684905831474,
+                            "y": 1862.6333333333334
+                        }
+                    ]
+                },
+                {
+                    "id": "S9TYknjo0",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "journal"
+                    ],
+                    "boundingBox": {
+                        "height": 33.96764671688988,
+                        "width": 182.12687779017855,
+                        "left": 917.0274711914062,
+                        "top": 1829.8886690048946
+                    },
+                    "points": [
+                        {
+                            "x": 917.0274711914062,
+                            "y": 1829.8886690048946
+                        },
+                        {
+                            "x": 1099.1543489815847,
+                            "y": 1829.8886690048946
+                        },
+                        {
+                            "x": 1099.1543489815847,
+                            "y": 1863.8563157217843
+                        },
+                        {
+                            "x": 917.0274711914062,
+                            "y": 1863.8563157217843
+                        }
+                    ]
+                },
+                {
+                    "id": "-Wxbyq2Kq",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "journal"
+                    ],
+                    "boundingBox": {
+                        "height": 50.95132925851005,
+                        "width": 288.9745333426339,
+                        "left": 951.0245635463169,
+                        "top": 141.21560628981817
+                    },
+                    "points": [
+                        {
+                            "x": 951.0245635463169,
+                            "y": 141.21560628981817
+                        },
+                        {
+                            "x": 1239.9990968889508,
+                            "y": 141.21560628981817
+                        },
+                        {
+                            "x": 1239.9990968889508,
+                            "y": 192.16693554832824
+                        },
+                        {
+                            "x": 951.0245635463169,
+                            "y": 192.16693554832824
+                        }
+                    ]
+                },
+                {
+                    "id": "v7EfQwC_3",
+                    "type": "RECTANGLE",
+                    "tags": [
+                        "publisher"
+                    ],
+                    "boundingBox": {
+                        "height": 53.37757967994327,
+                        "width": 139.63060630580355,
+                        "left": 805.3230613141741,
+                        "top": 141.21560628981817
+                    },
+                    "points": [
+                        {
+                            "x": 805.3230613141741,
+                            "y": 141.21560628981817
+                        },
+                        {
+                            "x": 944.9536676199776,
+                            "y": 141.21560628981817
+                        },
+                        {
+                            "x": 944.9536676199776,
+                            "y": 194.59318596976146
+                        },
+                        {
+                            "x": 805.3230613141741,
+                            "y": 194.59318596976146
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}
