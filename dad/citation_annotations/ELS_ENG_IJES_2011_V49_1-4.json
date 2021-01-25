@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          891.0959999999999,
+          786.7183999999999
+        ],
+        [
+          1034.97608,
+          807.6216799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1051.1046399999998,
+          786.7183999999999
+        ],
+        [
+          1364.2096799999997,
+          807.6216799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          114.26015999999998,
+          815.8108799999999
+        ],
+        [
+          302.69503999999995,
+          836.7141599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          603.8632799999999,
+          844.7923199999999
+        ],
+        [
+          740.3314399999999,
+          865.6955999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          241.90063999999998,
+          931.95872
+        ],
+        [
+          435.11024,
+          952.862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          420.20311999999996,
+          1357.5195199999998
+        ],
+        [
+          569.16328,
+          1378.4227999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2011_V49_1-4.jpg",
+  "imageData": null,
+  "imageHeight": 2063,
+  "imageWidth": 1512
+}

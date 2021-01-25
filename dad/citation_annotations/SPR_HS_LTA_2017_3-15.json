@@ -1,0 +1,90 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1008.8372093023256,
+          481.8604651162791
+        ],
+        [
+          1200.0,
+          512.0930232558139
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          484.1860465116279,
+          719.5348837209302
+        ],
+        [
+          837.2093023255815,
+          746.9767441860465
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          589.9497487437186,
+          1815.5778894472362
+        ],
+        [
+          773.8693467336683,
+          1845.2261306532664
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          528.643216080402,
+          1743.21608040201
+        ],
+        [
+          796.4824120603015,
+          1770.854271356784
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          439.1959798994975,
+          1578.391959798995
+        ],
+        [
+          675.8793969849246,
+          1612.5628140703518
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_HS_LTA_2017_3-15.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

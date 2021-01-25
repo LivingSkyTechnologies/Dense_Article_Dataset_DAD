@@ -1,0 +1,186 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.53903999999999,
+          419.42584
+        ],
+        [
+          474.61271999999997,
+          444.18775999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          985.5077599999998,
+          780.3058399999999
+        ],
+        [
+          1162.8108799999998,
+          805.0677599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.51128,
+          888.5975999999999
+        ],
+        [
+          285.56712,
+          913.35952
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1099.93448,
+          1141.1858399999999
+        ],
+        [
+          1232.8215999999998,
+          1165.9477599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.51128,
+          1177.21832
+        ],
+        [
+          171.0016,
+          1201.9802399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          233.54487999999998,
+          1393.77408
+        ],
+        [
+          411.4864799999999,
+          1418.5359999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          627.6536,
+          1465.8667999999998
+        ],
+        [
+          840.8503999999999,
+          1490.6287199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          112.53903999999999,
+          1643.3919999999998
+        ],
+        [
+          241.28992,
+          1663.2126399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          541.23672,
+          1682.2837599999998
+        ],
+        [
+          694.38864,
+          1702.1043999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          105.85365853658537,
+          1748.7804878048782
+        ],
+        [
+          239.51219512195124,
+          1772.6829268292684
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          958.048780487805,
+          1786.829268292683
+        ],
+        [
+          1086.829268292683,
+          1813.1707317073171
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_APPS_2019_1_1-7.jpg",
+  "imageData": null,
+  "imageHeight": 1938,
+  "imageWidth": 1347
+}

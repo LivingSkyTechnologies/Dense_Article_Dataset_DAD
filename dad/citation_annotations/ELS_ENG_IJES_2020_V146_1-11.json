@@ -1,0 +1,26 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1332.9019607843138,
+          1935.862745098039
+        ],
+        [
+          1593.6862745098038,
+          1977.0392156862745
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_IJES_2020_V146_1-11.jpg",
+  "imageData": null,
+  "imageHeight": 3105,
+  "imageWidth": 2268
+}

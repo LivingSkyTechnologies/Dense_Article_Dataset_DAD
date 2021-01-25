@@ -1,0 +1,170 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          301.39032,
+          442.1890399999999
+        ],
+        [
+          567.5532,
+          466.50679999999994
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          223.468,
+          476.80575999999996
+        ],
+        [
+          431.75127999999995,
+          501.12352
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1207.89312,
+          373.06663999999995
+        ],
+        [
+          1444.8247199999998,
+          397.38439999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          927.2672799999999,
+          476.77799999999996
+        ],
+        [
+          1141.38016,
+          501.09576
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          881.32448,
+          787.91208
+        ],
+        [
+          1075.1448,
+          812.22984
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1278.5423199999998,
+          1029.81272
+        ],
+        [
+          1476.6099199999999,
+          1054.1304799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1170.7502399999998,
+          1099.04616
+        ],
+        [
+          1395.3841599999998,
+          1123.36392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          599.92136,
+          1965.8521599999997
+        ],
+        [
+          813.9787200000001,
+          1986.5055999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          580.0469483568075,
+          441.0798122065728
+        ],
+        [
+          637.3239436619718,
+          467.3708920187794
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          821.5146299483648,
+          1964.8881239242683
+        ],
+        [
+          868.8468158347675,
+          1987.4354561101547
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_ENG_RED_2010_2_1-8.jpg",
+  "imageData": null,
+  "imageHeight": 2197,
+  "imageWidth": 1654
+}

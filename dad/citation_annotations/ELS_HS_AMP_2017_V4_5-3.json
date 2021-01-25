@@ -1,0 +1,266 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          118.03552,
+          562.72296
+        ],
+        [
+          205.36848,
+          583.654
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          590.1776,
+          1085.52704
+        ],
+        [
+          630.5406399999999,
+          1106.4580799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          385.58639999999997,
+          1666.2939999999999
+        ],
+        [
+          422.53495999999996,
+          1687.2250399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1281.84576,
+          214.27943999999997
+        ],
+        [
+          1320.4321599999998,
+          235.21047999999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1250.5324799999999,
+          591.8431999999999
+        ],
+        [
+          1370.40016,
+          612.77424
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1448.21144,
+          707.9910399999999
+        ],
+        [
+          1551.9228,
+          728.9220799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          928.2111199999999,
+          824.13888
+        ],
+        [
+          1037.16912,
+          845.06992
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          864.8072799999999,
+          940.2867200000001
+        ],
+        [
+          919.4944799999998,
+          961.2177600000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          929.4880799999999,
+          940.2867200000001
+        ],
+        [
+          956.3875199999999,
+          961.2177600000001
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1188.2112799999998,
+          1201.70264
+        ],
+        [
+          1295.3648799999999,
+          1222.63368
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1164.14336,
+          1259.77656
+        ],
+        [
+          1267.13296,
+          1280.7076
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1140.68616,
+          1346.80416
+        ],
+        [
+          1250.588,
+          1367.7351999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          980.1778399999998,
+          1433.9705599999998
+        ],
+        [
+          1083.5616438356165,
+          1455.4794520547946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1223.7996,
+          1433.9705599999998
+        ],
+        [
+          1266.4112,
+          1454.9015999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1217.6368799999998,
+          1637.17376
+        ],
+        [
+          1318.9053599999997,
+          1658.1047999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          999.0268799999999,
+          2043.83
+        ],
+        [
+          1120.5479452054794,
+          2069.8630136986303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_HS_AMP_2017_V4_5-3.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

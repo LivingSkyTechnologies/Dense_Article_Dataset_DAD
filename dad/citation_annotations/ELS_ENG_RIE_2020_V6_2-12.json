@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1322.1255199999998,
+          1578.79448
+        ],
+        [
+          1354.0217599999999,
+          1598.6984
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1354.0495199999998,
+          1578.79448
+        ],
+        [
+          1364.6816,
+          1598.6984
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1364.6816,
+          1578.79448
+        ],
+        [
+          1396.57784,
+          1598.6984
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1188.04472,
+          1636.8683999999998
+        ],
+        [
+          1227.38064,
+          1656.7723199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1346.8319199999999,
+          1869.16408
+        ],
+        [
+          1387.13944,
+          1889.068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1387.1671999999999,
+          1869.16408
+        ],
+        [
+          1417.3978399999999,
+          1889.068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1417.3978399999999,
+          1869.16408
+        ],
+        [
+          1447.6284799999999,
+          1889.068
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_2-12.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

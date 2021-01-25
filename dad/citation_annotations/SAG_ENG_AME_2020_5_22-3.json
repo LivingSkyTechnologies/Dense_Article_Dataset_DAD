@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          381.4779199999999,
+          985.3134399999999
+        ],
+        [
+          402.2979199999999,
+          1001.7751199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          306.24832,
+          1086.02672
+        ],
+        [
+          324.43111999999996,
+          1102.4884
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          324.45887999999997,
+          1086.02672
+        ],
+        [
+          342.64167999999995,
+          1102.4884
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          350.63656,
+          1220.4406399999998
+        ],
+        [
+          371.45655999999997,
+          1236.9023199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          246.75863999999999,
+          1388.49968
+        ],
+        [
+          257.16864,
+          1404.9613599999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          232.29568,
+          1922.96296
+        ],
+        [
+          250.56176,
+          1939.42464
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          250.56176,
+          1922.96296
+        ],
+        [
+          268.82784,
+          1939.42464
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          242.67792,
+          1990.1699199999998
+        ],
+        [
+          270.82656,
+          2006.6315999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          270.82656,
+          1990.1699199999998
+        ],
+        [
+          289.59232,
+          2006.6315999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1104.79248,
+          1218.3863999999999
+        ],
+        [
+          1125.61248,
+          1234.8480799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          988.3392799999998,
+          1418.8968799999998
+        ],
+        [
+          1016.5156799999997,
+          1435.3585599999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1016.51568,
+          1418.8968799999998
+        ],
+        [
+          1035.28144,
+          1435.3585599999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1494.1542399999998,
+          1956.8023999999998
+        ],
+        [
+          1514.9742399999998,
+          1973.2640799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data6\\CITATION\\SAG_ENG_AME_2020_5_22\\SAG_ENG_AME_2020_5_22-3.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

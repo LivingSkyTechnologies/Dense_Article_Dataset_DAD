@@ -1,0 +1,282 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          601.47592,
+          1536.3216799999998
+        ],
+        [
+          621.5464,
+          1556.2255999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          621.5464,
+          1536.3216799999998
+        ],
+        [
+          631.5677599999999,
+          1556.2255999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1248.45048,
+          1623.48808
+        ],
+        [
+          1258.8327199999999,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1248.45048,
+          1623.48808
+        ],
+        [
+          1258.8327199999999,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1248.45048,
+          1623.48808
+        ],
+        [
+          1258.8327199999999,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1248.45048,
+          1623.48808
+        ],
+        [
+          1258.8327199999999,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1248.45048,
+          1623.48808
+        ],
+        [
+          1258.8327199999999,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1258.8327199999999,
+          1623.48808
+        ],
+        [
+          1289.95168,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1335.8111999999999,
+          1710.5156799999997
+        ],
+        [
+          1375.1748799999998,
+          1730.4195999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          621.5464,
+          1536.3216799999998
+        ],
+        [
+          631.5677599999999,
+          1556.2255999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          631.59552,
+          1536.3216799999998
+        ],
+        [
+          651.6659999999999,
+          1556.2255999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          633.7608,
+          1710.5156799999997
+        ],
+        [
+          653.8868,
+          1730.4195999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          653.8868,
+          1710.5156799999997
+        ],
+        [
+          663.93592,
+          1730.4195999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          663.9359199999999,
+          1710.5156799999997
+        ],
+        [
+          684.0619199999999,
+          1730.4195999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1289.70184,
+          1449.1275199999998
+        ],
+        [
+          1317.29528,
+          1469.0314399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1317.2952799999998,
+          1449.1275199999998
+        ],
+        [
+          1335.6724,
+          1469.0314399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1227.7137599999999,
+          1623.48808
+        ],
+        [
+          1248.47824,
+          1643.392
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_23-1.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

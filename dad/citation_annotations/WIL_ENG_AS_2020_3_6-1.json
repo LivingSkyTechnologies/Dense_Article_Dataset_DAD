@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1500.682593856655,
+          652.9010238907849
+        ],
+        [
+          1519.4539249146758,
+          671.6723549488054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1209.556313993174,
+          803.4129692832764
+        ],
+        [
+          1237.542662116041,
+          825.938566552901
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1243.0034129692833,
+          1109.8976109215016
+        ],
+        [
+          1261.7747440273038,
+          1129.0102389078497
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1118.7713310580205,
+          1198.976109215017
+        ],
+        [
+          1151.877133105802,
+          1220.8191126279862
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1270.6484641638224,
+          1292.8327645051195
+        ],
+        [
+          1291.1262798634812,
+          1311.9453924914676
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1109.556313993174,
+          1323.890784982935
+        ],
+        [
+          1126.962457337884,
+          1343.003412969283
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_3_6-1.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

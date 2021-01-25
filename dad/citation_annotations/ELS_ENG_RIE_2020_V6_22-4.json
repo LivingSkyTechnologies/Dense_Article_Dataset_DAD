@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          140.07695999999999,
+          465.97936
+        ],
+        [
+          177.96936,
+          485.88328
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          705.1039999999999,
+          1079.11448
+        ],
+        [
+          745.0506399999999,
+          1099.0184
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          437.71968,
+          1560.08424
+        ],
+        [
+          479.44295999999997,
+          1579.9881599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          529.43872,
+          1560.08424
+        ],
+        [
+          570.91216,
+          1579.9881599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          620.8524,
+          1560.08424
+        ],
+        [
+          662.32584,
+          1579.9881599999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          481.4139199999999,
+          1589.0379199999998
+        ],
+        [
+          519.3618399999999,
+          1608.9418399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          179.10751999999997,
+          1822.8881599999997
+        ],
+        [
+          222.46863999999997,
+          1842.7920799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          410.43159999999995,
+          1822.8881599999997
+        ],
+        [
+          453.6261599999999,
+          1842.7920799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1304.19256,
+          184.57623999999998
+        ],
+        [
+          1347.41488,
+          204.48015999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1469.6144,
+          184.57623999999998
+        ],
+        [
+          1512.8089599999998,
+          204.48015999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1145.40536,
+          445.99215999999996
+        ],
+        [
+          1184.74128,
+          465.89608
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1459.84288,
+          474.94584
+        ],
+        [
+          1499.1788,
+          494.84975999999995
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1168.36288,
+          533.0197599999999
+        ],
+        [
+          1211.5852,
+          552.9236799999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_ENG_RIE_2020_V6_22-4.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

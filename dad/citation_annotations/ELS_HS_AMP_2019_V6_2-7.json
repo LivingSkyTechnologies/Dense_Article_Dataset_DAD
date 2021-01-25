@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          722.84264,
+          1247.812
+        ],
+        [
+          761.5956,
+          1272.3796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          406.98936000000003,
+          1480.1076799999998
+        ],
+        [
+          447.46344000000005,
+          1504.67528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          447.46343999999993,
+          1480.1076799999998
+        ],
+        [
+          477.80511999999993,
+          1504.67528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          550.342,
+          1567.1352799999997
+        ],
+        [
+          590.8160799999999,
+          1591.7028799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          590.8160799999999,
+          1567.1352799999997
+        ],
+        [
+          621.1577599999999,
+          1591.7028799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1466.31096,
+          986.3960799999999
+        ],
+        [
+          1505.45256,
+          1010.9636799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          932.9580799999999,
+          1189.7380799999999
+        ],
+        [
+          972.0996799999999,
+          1214.30568
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "ELS_HS_AMP_2019_V6_2-7.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

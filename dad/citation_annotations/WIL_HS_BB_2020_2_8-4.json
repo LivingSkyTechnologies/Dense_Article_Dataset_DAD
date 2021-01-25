@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1308.782608695652,
+          1073.9130434782608
+        ],
+        [
+          1531.391304347826,
+          1101.7391304347825
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          851.391304347826,
+          1109.5652173913043
+        ],
+        [
+          1521.8260869565215,
+          1137.391304347826
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1251.391304347826,
+          1179.1304347826085
+        ],
+        [
+          1530.5217391304345,
+          1206.9565217391303
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          852.2608695652173,
+          1217.391304347826
+        ],
+        [
+          1040.9565217391303,
+          1243.478260869565
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1287.9130434782608,
+          1905.2173913043475
+        ],
+        [
+          1533.1304347826085,
+          1936.5217391304345
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          847.9130434782608,
+          1933.9130434782605
+        ],
+        [
+          913.9999999999999,
+          1967.8260869565215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_BB_2020_2_8-4.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

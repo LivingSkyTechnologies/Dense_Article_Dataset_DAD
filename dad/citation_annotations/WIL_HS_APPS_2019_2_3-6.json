@@ -1,0 +1,122 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          258.11248,
+          126.69663999999999
+        ],
+        [
+          505.73168,
+          151.45855999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          740.9090909090909,
+          230.6818181818182
+        ],
+        [
+          963.6363636363636,
+          258.52272727272725
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1038.69592,
+          523.6368799999999
+        ],
+        [
+          1233.07144,
+          548.3987999999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1142.7404,
+          1658.96536
+        ],
+        [
+          1232.8771199999999,
+          1683.7272799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          446.2264150943396,
+          1746.698113207547
+        ],
+        [
+          631.6037735849056,
+          1771.698113207547
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          297.1698113207547,
+          1788.2075471698113
+        ],
+        [
+          464.62264150943395,
+          1812.7358490566037
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          491.03773584905656,
+          1788.2075471698113
+        ],
+        [
+          645.2830188679245,
+          1814.1509433962262
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_HS_APPS_2019_2_3-6.jpg",
+  "imageData": null,
+  "imageHeight": 1938,
+  "imageWidth": 1347
+}

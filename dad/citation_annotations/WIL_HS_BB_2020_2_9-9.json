@@ -1,0 +1,26 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          182.7814569536424,
+          1833.7748344370862
+        ],
+        [
+          413.9072847682119,
+          1858.9403973509934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\WIL_HS_BB_2020_2_9\\WIL_HS_BB_2020_2_9-9.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

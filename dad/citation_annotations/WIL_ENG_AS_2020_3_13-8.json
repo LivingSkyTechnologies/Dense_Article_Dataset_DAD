@@ -1,0 +1,170 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          738.9434399999999,
+          800.4318399999999
+        ],
+        [
+          762.2618399999999,
+          814.6727199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          779.27872,
+          826.8038399999999
+        ],
+        [
+          802.59712,
+          841.0447199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          658.66152,
+          853.1758399999999
+        ],
+        [
+          683.11808,
+          867.4167199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          683.11808,
+          853.1758399999999
+        ],
+        [
+          701.43968,
+          867.4167199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          476.86127999999997,
+          879.5478399999998
+        ],
+        [
+          500.17967999999996,
+          893.7887199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          735.47344,
+          905.9198399999999
+        ],
+        [
+          758.79184,
+          920.1607199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          638.8964,
+          1169.6398399999998
+        ],
+        [
+          663.3252,
+          1183.8807199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          663.3529599999999,
+          1169.6398399999998
+        ],
+        [
+          681.6745599999999,
+          1183.8807199999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          272.88079999999997,
+          1222.3838399999997
+        ],
+        [
+          297.33736,
+          1236.6247199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          297.33736,
+          1222.3838399999997
+        ],
+        [
+          315.65896,
+          1236.6247199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data8\\WIL_ENG_AS_COLLECTION\\CITATION\\WIL_ENG_AS_2020_3_13\\WIL_ENG_AS_2020_3_13-8.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

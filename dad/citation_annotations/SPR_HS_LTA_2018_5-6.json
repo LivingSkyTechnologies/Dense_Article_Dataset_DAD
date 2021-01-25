@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1246.979865771812,
+          834.8993288590605
+        ],
+        [
+          1329.530201342282,
+          865.771812080537
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          326.1744966442953,
+          875.8389261744967
+        ],
+        [
+          499.3288590604027,
+          902.0134228187919
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1214.0939597315437,
+          1068.456375838926
+        ],
+        [
+          1333.5570469798658,
+          1101.3422818791946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          324.8322147651007,
+          1108.724832214765
+        ],
+        [
+          396.6442953020134,
+          1142.2818791946308
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          875.8389261744967,
+          1883.8926174496644
+        ],
+        [
+          1146.979865771812,
+          1916.778523489933
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          320.13422818791946,
+          1726.1744966442952
+        ],
+        [
+          604.0268456375838,
+          1757.0469798657718
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "SPR_HS_LTA_2018_5-6.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

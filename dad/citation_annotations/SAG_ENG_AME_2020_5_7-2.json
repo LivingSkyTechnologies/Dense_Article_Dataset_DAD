@@ -1,0 +1,218 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          759.5413599999999,
+          1861.4467999999997
+        ],
+        [
+          769.9513599999999,
+          1877.9084799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          769.9236,
+          1861.4467999999997
+        ],
+        [
+          790.71584,
+          1877.9084799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          221.58031999999997,
+          1998.5256799999997
+        ],
+        [
+          242.40031999999997,
+          2014.9873599999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          984.73048,
+          1794.4063999999998
+        ],
+        [
+          1005.55048,
+          1810.8680799999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          966.9363199999999,
+          1862.3906399999998
+        ],
+        [
+          987.75632,
+          1878.8523199999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1417.67544,
+          1998.5256799999997
+        ],
+        [
+          1446.0184,
+          2014.9873599999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1446.0184,
+          1998.5256799999997
+        ],
+        [
+          1464.9229599999999,
+          2014.9873599999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          744.41216,
+          1217.44256
+        ],
+        [
+          754.8221599999999,
+          1233.9042399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          443.66031999999996,
+          1354.6879999999999
+        ],
+        [
+          454.07032,
+          1371.1496799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          570.6623199999999,
+          1655.57864
+        ],
+        [
+          581.0723199999999,
+          1672.0403199999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          764.39936,
+          1689.8899999999999
+        ],
+        [
+          782.02696,
+          1706.3516799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          782.0269599999999,
+          1689.8899999999999
+        ],
+        [
+          790.82688,
+          1706.3516799999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          738.74912,
+          1861.4467999999997
+        ],
+        [
+          759.5413599999999,
+          1877.9084799999996
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data6\\CITATION\\SAG_ENG_AME_2020_5_7\\SAG_ENG_AME_2020_5_7-2.jpg",
+  "imageData": null,
+  "imageHeight": 2205,
+  "imageWidth": 1654
+}

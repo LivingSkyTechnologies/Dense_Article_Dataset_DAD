@@ -1,0 +1,106 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          1348.4641638225255,
+          741.296928327645
+        ],
+        [
+          1365.5290102389079,
+          761.4334470989761
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          229.13043478260866,
+          1292.6086956521738
+        ],
+        [
+          261.52173913043475,
+          1310.6521739130433
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          434.5652173913043,
+          1324.5652173913043
+        ],
+        [
+          451.9565217391304,
+          1342.8260869565215
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1112.5984251968505,
+          1232.020997375328
+        ],
+        [
+          1130.1837270341207,
+          1251.1811023622047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1175.117370892019,
+          926.5258215962442
+        ],
+        [
+          1194.3661971830986,
+          945.5399061032864
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1112.206572769953,
+          1018.7793427230048
+        ],
+        [
+          1130.0469483568077,
+          1035.2112676056338
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WIL_ENG_AS_2020_3_2-1.jpg",
+  "imageData": null,
+  "imageHeight": 2174,
+  "imageWidth": 1654
+}

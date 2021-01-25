@@ -1,0 +1,314 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "citation",
+      "points": [
+        [
+          237.68112,
+          1532.5185599999998
+        ],
+        [
+          510.86727999999994,
+          1556.8918399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          520.72208,
+          1532.5185599999998
+        ],
+        [
+          649.22312,
+          1556.8918399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          244.89871999999997,
+          1932.2625599999997
+        ],
+        [
+          437.55312,
+          1956.6358399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          600.55984,
+          1965.5745599999998
+        ],
+        [
+          845.31976,
+          1989.9478399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          978.87312,
+          1412.4565599999999
+        ],
+        [
+          1281.01296,
+          1436.8298399999999
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1102.0997599999998,
+          1512.3925599999998
+        ],
+        [
+          1377.8675999999998,
+          1536.7658399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1389.0826399999999,
+          1512.3925599999998
+        ],
+        [
+          1565.69176,
+          1536.7658399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          895.26,
+          1545.7045599999997
+        ],
+        [
+          955.02728,
+          1570.0778399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          1199.81496,
+          1612.3285599999997
+        ],
+        [
+          1409.95816,
+          1636.7018399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          321.65512,
+          1599.1425599999998
+        ],
+        [
+          457.87343999999996,
+          1623.5158399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          633.73304,
+          1599.1425599999998
+        ],
+        [
+          785.3859199999999,
+          1623.5158399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          428.17024,
+          1632.4545599999997
+        ],
+        [
+          602.6973599999999,
+          1656.8278399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          444.15999999999997,
+          1732.3905599999998
+        ],
+        [
+          599.4771999999999,
+          1756.7638399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          607.5275999999999,
+          1732.3905599999998
+        ],
+        [
+          738.1939199999999,
+          1756.7638399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          746.2443199999999,
+          1732.3905599999998
+        ],
+        [
+          845.2642399999999,
+          1756.7638399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          174.88799999999998,
+          1765.7025599999997
+        ],
+        [
+          353.77343999999994,
+          1790.0758399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          360.2137599999999,
+          1765.7025599999997
+        ],
+        [
+          510.8395199999999,
+          1790.0758399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          675.01216,
+          1898.9505599999998
+        ],
+        [
+          845.31976,
+          1923.3238399999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "citation",
+      "points": [
+        [
+          174.88799999999998,
+          1932.2625599999997
+        ],
+        [
+          238.12527999999998,
+          1956.6358399999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "C:\\University of Sask\\Mitacs project\\Data5\\SAG_HS_SO_COLLECTION\\CITATION\\SAG_HS_SO_2020_1_13\\SAG_HS_SO_2020_1_13-1.jpg",
+  "imageData": null,
+  "imageHeight": 2200,
+  "imageWidth": 1700
+}
