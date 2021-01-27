@@ -13,7 +13,7 @@ We adopt a coding scheme proposed in Bateman et al. (2002) to annotate the colle
 
 ## Usage
 
-We strongly recommend refering the the documentation and scripts found in our models repository at X. However, we also provide an example_usage.ipynb to get someone quickly acqainted with the dataset.
+We strongly recommend refering the the documentation and scripts found in our models repository at https://github.com/LivingSkyTechnologies/Document\_Layout\_Segmentation. However, we also provide an example\_usage.ipynb to get someone quickly acqainted with the dataset.
 
 ## References
 
